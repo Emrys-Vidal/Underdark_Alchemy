@@ -1,4 +1,21 @@
-[
+{
+  "_meta": {
+    "sources": [
+      {
+        "json": "UnderdarkAlchemy",
+        "abbreviation": "UNAL",
+        "full": "Underdark Alchemy",
+        "authors": [""],
+        "url": "https://raw.githubusercontent.com/Emrys-Vidal/Underdark_Alchemy/refs/heads/main/ingredients.json",
+        "color": "#5f8dd3",
+        "targetSchema": "1.0.0"
+      }
+    ],
+    "edition": "classic",
+    "dateAdded": 1775000000,
+    "dateLastModified": 1775000000
+  },
+  "item": [
   {
     "name": "Esporo Luminescente",
     "type": "consumable",
