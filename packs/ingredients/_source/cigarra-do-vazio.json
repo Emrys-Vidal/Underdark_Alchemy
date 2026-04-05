@@ -1,0 +1,33 @@
+{
+  "_id": "cigarradovaz0024",
+  "name": "Cigarra do Vazio",
+  "type": "consumable",
+  "img": "modules/underdark-alchemy/assets/insects/cigarra-do-vazio.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Cigarra do Vazio</strong> (Raro).</p><p>Inseto negro cujo canto some no meio da nota.</p><p><strong>Uso bruto:</strong> Pode ser tostada.</p><p><strong>Efeito bruto:</strong> Tostada: 1/2 ração e vantagem no próximo Dexterity (Stealth) em stone corridors.</p><p><strong>Efeito alquímico:</strong> Asas viram pó de silêncio.</p><p><strong>Extração:</strong> teste DC 13 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> raro em fendas profundas</p><p><strong>Região:</strong> Túneis Profundos</p><p><strong>Afinidade:</strong> silêncio/sombra</p>"
+    },
+    "price": {
+      "value": 15
+    },
+    "weight": 0.5
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 3,
+      "region": "Túneis Profundos",
+      "affinity": "silêncio/sombra"
+    }
+  },
+  "folder": null,
+  "sort": 24000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

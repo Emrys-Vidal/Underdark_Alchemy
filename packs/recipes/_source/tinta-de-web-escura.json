@@ -1,0 +1,37 @@
+{
+  "_id": "tintadewebes0009",
+  "name": "Tinta de Web Escura",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Tinta de Web Escura</strong> (Incomum).</p><p><strong>Ingredientes:</strong> Cinza de Ritual Drow, Ferrão de Aranha Menor</p><p><strong>Resultado:</strong> Frasco de tinta ritual</p><p><strong>Efeito:</strong> Permite marcar superfícies com runas drow visíveis apenas sob darkness ou luz fraca.</p><p><strong>Crafting:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p><p><strong>Notas:</strong> Muito usada por patrulhas.</p>"
+    },
+    "price": {
+      "value": 30
+    },
+    "weight": 0.1
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronRecipe": true,
+      "tier": 2,
+      "region": "Velkynvelve",
+      "ingredients": [
+        "Cinza de Ritual Drow",
+        "Ferrão de Aranha Menor"
+      ],
+      "result": "Frasco de tinta ritual"
+    }
+  },
+  "folder": null,
+  "sort": 9000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

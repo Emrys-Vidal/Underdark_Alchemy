@@ -1,0 +1,33 @@
+{
+  "_id": "besouroacido0003",
+  "name": "Besouro Ácido Menor",
+  "type": "consumable",
+  "img": "modules/underdark-alchemy/assets/insects/besouro-acido-menor.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Besouro Ácido Menor</strong> (Comum).</p><p>Besouro verde de casco levemente corrosivo.</p><p><strong>Uso bruto:</strong> Pode ser esmagado cru.</p><p><strong>Efeito bruto:</strong> Ao ingerir cru, sofre 1 acid damage, mas conta como 1/2 ração se assado.</p><p><strong>Efeito alquímico:</strong> Fonte barata de reagente corrosivo.</p><p><strong>Extração:</strong> teste DC 11 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> incomum perto de teias velhas</p><p><strong>Região:</strong> Rotas de Seda</p><p><strong>Afinidade:</strong> ácido</p>"
+    },
+    "price": {
+      "value": 5
+    },
+    "weight": 0.5
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 1,
+      "region": "Rotas de Seda",
+      "affinity": "ácido"
+    }
+  },
+  "folder": null,
+  "sort": 3000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

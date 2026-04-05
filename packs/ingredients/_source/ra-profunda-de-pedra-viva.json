@@ -1,0 +1,33 @@
+{
+  "_id": "raprofundade0046",
+  "name": "Rã Profunda de Pedra-Viva",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/amphibians/ra-profunda-de-pedra-viva.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Rã Profunda de Pedra-Viva</strong> (Aberrante).</p><p>Rã pequena com ossos brilhando através da pele.</p><p><strong>Uso bruto:</strong> Não recomendada.</p><p><strong>Efeito bruto:</strong> Cru endurece a língua e impõe desvantagem no próximo Charisma check.</p><p><strong>Efeito alquímico:</strong> Órgãos mineralizados servem para transmutação e skin of stone.</p><p><strong>Extração:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> extremamente raro em rios minerais</p><p><strong>Região:</strong> Gracklstugh</p><p><strong>Afinidade:</strong> terra/transmutação</p>"
+    },
+    "price": {
+      "value": 25
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 5,
+      "region": "Gracklstugh",
+      "affinity": "terra/transmutação"
+    }
+  },
+  "folder": null,
+  "sort": 46000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

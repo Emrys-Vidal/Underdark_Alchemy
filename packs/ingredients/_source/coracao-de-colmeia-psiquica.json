@@ -1,0 +1,33 @@
+{
+  "_id": "coracaodecol0044",
+  "name": "Coração de Colmeia Psíquica",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/insects/coracao-de-colmeia-psiquica.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Coração de Colmeia Psíquica</strong> (Aberrante).</p><p>Massa pulsante retirada do centro de uma colônia mental.</p><p><strong>Uso bruto:</strong> Não comestível.</p><p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p><p><strong>Efeito alquímico:</strong> Catalisa receitas de telepathy, mental shield e fear.</p><p><strong>Extração:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> extremamente raro em ninhos aberrantes</p><p><strong>Região:</strong> Túneis Profundos</p><p><strong>Afinidade:</strong> psíquico</p>"
+    },
+    "price": {
+      "value": 25
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 5,
+      "region": "Túneis Profundos",
+      "affinity": "psíquico"
+    }
+  },
+  "folder": null,
+  "sort": 44000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

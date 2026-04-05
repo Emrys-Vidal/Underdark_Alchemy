@@ -1,0 +1,33 @@
+{
+  "_id": "podeobsidian0008",
+  "name": "Pó de Obsidiana Ritual",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/arcane/po-de-obsidiana-ritual.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Pó de Obsidiana Ritual</strong> (Comum).</p><p>Pó negro vítreo usado em círculos rituais.</p><p><strong>Uso bruto:</strong> Não comestível.</p><p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p><p><strong>Efeito alquímico:</strong> Catalisa fogo, shadow e rituais drow simples.</p><p><strong>Extração:</strong> teste DC 11 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> comum em forjas e mercados</p><p><strong>Região:</strong> Gracklstugh</p><p><strong>Afinidade:</strong> fogo/sombra</p>"
+    },
+    "price": {
+      "value": 5
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 1,
+      "region": "Gracklstugh",
+      "affinity": "fogo/sombra"
+    }
+  },
+  "folder": null,
+  "sort": 8000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

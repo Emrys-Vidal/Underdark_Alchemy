@@ -1,0 +1,117 @@
+{
+  "_id": "lagoescuro0002",
+  "name": "Encontros Regionais - Lago Escuro",
+  "description": "Tabela regional de ingredientes e eventos para Lago Escuro.",
+  "img": "icons/svg/d20-grey.svg",
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "lagoescuro10001",
+      "type": 0,
+      "text": "Peixe-Cego do Lago Escuro",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 5,
+      "range": [
+        1,
+        5
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lagoescuro20002",
+      "type": 0,
+      "text": "Musgo de Água Fria",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 3,
+      "range": [
+        6,
+        8
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lagoescuro30003",
+      "type": 0,
+      "text": "Rã Ecoante",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 3,
+      "range": [
+        9,
+        11
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lagoescuro40004",
+      "type": 0,
+      "text": "Sapo Lanternado",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 3,
+      "range": [
+        12,
+        14
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lagoescuro50005",
+      "type": 0,
+      "text": "Axolote Sombrio",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 2,
+      "range": [
+        15,
+        16
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lagoescuro60006",
+      "type": 0,
+      "text": "Girino Aboleth",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 2,
+      "range": [
+        17,
+        18
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lagoescuro70007",
+      "type": 0,
+      "text": "Essência Psíquica Destilada",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lagoescuro80008",
+      "type": 0,
+      "text": "encontro anômalo ligado ao Darklake",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false
+    }
+  ],
+  "folder": null,
+  "sort": 2000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "areiadoplano0040",
+  "name": "Areia do Plano Etéreo",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/arcane/areia-do-plano-etereo.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Areia do Plano Etéreo</strong> (Muito Raro).</p><p>Grãos frios que escapam de recipientes mal vedados.</p><p><strong>Uso bruto:</strong> Não comestível.</p><p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p><p><strong>Efeito alquímico:</strong> Dá leveza e instabilidade a poções e pós.</p><p><strong>Extração:</strong> teste DC 14 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> muito raro em fissuras planares</p><p><strong>Região:</strong> Túneis Profundos</p><p><strong>Afinidade:</strong> planar/sombra</p>"
+    },
+    "price": {
+      "value": 20
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 4,
+      "region": "Túneis Profundos",
+      "affinity": "planar/sombra"
+    }
+  },
+  "folder": null,
+  "sort": 40000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

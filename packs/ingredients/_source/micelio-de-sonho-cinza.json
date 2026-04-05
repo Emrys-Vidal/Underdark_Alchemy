@@ -1,0 +1,33 @@
+{
+  "_id": "miceliodeson0042",
+  "name": "Micélio de Sonho Cinza",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/fungi/micelio-de-sonho-cinza.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Micélio de Sonho Cinza</strong> (Aberrante).</p><p>Filamentos cinzentos que reagem a pensamentos.</p><p><strong>Uso bruto:</strong> Apenas em laboratório.</p><p><strong>Efeito bruto:</strong> Sem uso bruto direto seguro.</p><p><strong>Efeito alquímico:</strong> Permite efeitos ligados a sonho, visão e memória roubada.</p><p><strong>Extração:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> extremamente raro em cavernas sem som</p><p><strong>Região:</strong> Túneis Profundos</p><p><strong>Afinidade:</strong> psíquico/sonho</p>"
+    },
+    "price": {
+      "value": 25
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 5,
+      "region": "Túneis Profundos",
+      "affinity": "psíquico/sonho"
+    }
+  },
+  "folder": null,
+  "sort": 42000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

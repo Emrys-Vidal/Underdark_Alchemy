@@ -1,0 +1,37 @@
+{
+  "_id": "sorodeinsigh0015",
+  "name": "Soro de Insight Corrompido",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Soro de Insight Corrompido</strong> (Raro).</p><p><strong>Ingredientes:</strong> Micélio de Zuggtmoy, Larva Psíquica</p><p><strong>Resultado:</strong> Frasco opalescente</p><p><strong>Efeito:</strong> Vantagem em um teste de Wisdom (Insight), mas depois Wisdom saving throw DC 12 ou frightened até o fim do próximo turno.</p><p><strong>Crafting:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p><p><strong>Notas:</strong> Poderoso e suspeito.</p>"
+    },
+    "price": {
+      "value": 45
+    },
+    "weight": 0.1
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronRecipe": true,
+      "tier": 3,
+      "region": "Bosque Nunca Claro",
+      "ingredients": [
+        "Micélio de Zuggtmoy",
+        "Larva Psíquica"
+      ],
+      "result": "Frasco opalescente"
+    }
+  },
+  "folder": null,
+  "sort": 15000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

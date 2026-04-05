@@ -1,0 +1,33 @@
+{
+  "_id": "quitinadedar0007",
+  "name": "Quitina de Darkmantle",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/monsters/quitina-de-darkmantle.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Quitina de Darkmantle</strong> (Comum).</p><p>Carapaça fosca que parece engolir luz.</p><p><strong>Uso bruto:</strong> Não comestível.</p><p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p><p><strong>Efeito alquímico:</strong> Moída, reforça receitas de abafamento e escuridão.</p><p><strong>Extração:</strong> teste DC 11 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> incomum em tetos de cavernas</p><p><strong>Região:</strong> Túneis Profundos</p><p><strong>Afinidade:</strong> sombra</p>"
+    },
+    "price": {
+      "value": 5
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 1,
+      "region": "Túneis Profundos",
+      "affinity": "sombra"
+    }
+  },
+  "folder": null,
+  "sort": 7000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

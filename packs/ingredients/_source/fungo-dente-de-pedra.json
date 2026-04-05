@@ -1,0 +1,33 @@
+{
+  "_id": "fungodentede0021",
+  "name": "Fungo Dente-de-Pedra",
+  "type": "consumable",
+  "img": "modules/underdark-alchemy/assets/fungi/fungo-dente-de-pedra.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Fungo Dente-de-Pedra</strong> (Raro).</p><p>Cogumelo duro com textura quase mineral.</p><p><strong>Uso bruto:</strong> Pode ser mascado com risco.</p><p><strong>Efeito bruto:</strong> Cru: 1 bludgeoning damage nos dentes sensíveis, mas conta como 1/2 ração.</p><p><strong>Efeito alquímico:</strong> Fortalece poções de skin hardening.</p><p><strong>Extração:</strong> teste DC 13 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> raro em pedreiras e minas</p><p><strong>Região:</strong> Gracklstugh</p><p><strong>Afinidade:</strong> terra</p>"
+    },
+    "price": {
+      "value": 15
+    },
+    "weight": 0.5
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 3,
+      "region": "Gracklstugh",
+      "affinity": "terra"
+    }
+  },
+  "folder": null,
+  "sort": 21000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

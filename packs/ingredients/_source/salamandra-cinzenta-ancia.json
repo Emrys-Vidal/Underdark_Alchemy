@@ -1,0 +1,33 @@
+{
+  "_id": "salamandraci0045",
+  "name": "Salamandra Cinzenta Anciã",
+  "type": "consumable",
+  "img": "modules/underdark-alchemy/assets/amphibians/salamandra-cinzenta-ancia.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Salamandra Cinzenta Anciã</strong> (Aberrante).</p><p>Anfíbio grande marcado por cinza vulcânica.</p><p><strong>Uso bruto:</strong> Pode ser preparada só por especialista.</p><p><strong>Efeito bruto:</strong> Cozida corretamente: 2 rações e resistência a fire damage por 1 hour.</p><p><strong>Efeito alquímico:</strong> Seu sangue entra em elixires superiores de calor.</p><p><strong>Extração:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> extremamente raro em lagos termais</p><p><strong>Região:</strong> Cavernas Vulcânicas</p><p><strong>Afinidade:</strong> fogo</p>"
+    },
+    "price": {
+      "value": 25
+    },
+    "weight": 0.5
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 5,
+      "region": "Cavernas Vulcânicas",
+      "affinity": "fogo"
+    }
+  },
+  "folder": null,
+  "sort": 45000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

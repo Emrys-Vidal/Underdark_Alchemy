@@ -1,0 +1,33 @@
+{
+  "_id": "radelimo0036",
+  "name": "Rã de Limo",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/amphibians/ra-de-limo.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Rã de Limo</strong> (Muito Raro).</p><p>Rã verde translúcida cuja pele pinga ácido diluído.</p><p><strong>Uso bruto:</strong> Não recomendada para consumo.</p><p><strong>Efeito bruto:</strong> Cru: teste DC 15 Constitution saving throw ou 2 acid damage.</p><p><strong>Efeito alquímico:</strong> Limo estabilizado entra em receitas de corrosão controlada.</p><p><strong>Extração:</strong> teste DC 14 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> muito raro em cavernas ácidas</p><p><strong>Região:</strong> Fendas Úmidas</p><p><strong>Afinidade:</strong> ácido</p>"
+    },
+    "price": {
+      "value": 20
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 4,
+      "region": "Fendas Úmidas",
+      "affinity": "ácido"
+    }
+  },
+  "folder": null,
+  "sort": 36000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

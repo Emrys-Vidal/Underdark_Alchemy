@@ -1,0 +1,105 @@
+{
+  "_id": "bosquenuncac0003",
+  "name": "Encontros Regionais - Bosque Nunca Claro",
+  "description": "Tabela regional de ingredientes e eventos para Bosque Nunca Claro.",
+  "img": "icons/svg/d20-grey.svg",
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "bosquenuncac0001",
+      "type": 0,
+      "text": "Fungo Véu Cinza",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 4,
+      "range": [
+        1,
+        4
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "bosquenuncac0002",
+      "type": 0,
+      "text": "Esporo de Violet Fungus",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 3,
+      "range": [
+        5,
+        7
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "bosquenuncac0003",
+      "type": 0,
+      "text": "Mosca de Putrefação",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 3,
+      "range": [
+        8,
+        10
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "bosquenuncac0004",
+      "type": 0,
+      "text": "Micélio de Zuggtmoy",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 3,
+      "range": [
+        11,
+        13
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "bosquenuncac0005",
+      "type": 0,
+      "text": "Besouro Myconid",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 3,
+      "range": [
+        14,
+        16
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "bosquenuncac0006",
+      "type": 0,
+      "text": "Esporo da Rainha de Fungos",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 2,
+      "range": [
+        17,
+        18
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "bosquenuncac0007",
+      "type": 0,
+      "text": "evento fúngico hostil",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 2,
+      "range": [
+        19,
+        20
+      ],
+      "drawn": false
+    }
+  ],
+  "folder": null,
+  "sort": 3000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

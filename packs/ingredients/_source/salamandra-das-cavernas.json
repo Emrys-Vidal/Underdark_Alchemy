@@ -1,0 +1,33 @@
+{
+  "_id": "salamandrada0015",
+  "name": "Salamandra das Cavernas",
+  "type": "consumable",
+  "img": "modules/underdark-alchemy/assets/amphibians/salamandra-das-cavernas.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Salamandra das Cavernas</strong> (Incomum).</p><p>Salamandra escura de ventre âmbar.</p><p><strong>Uso bruto:</strong> Pode ser comida cozida.</p><p><strong>Efeito bruto:</strong> Cru: 1/2 ração. Cozida: 1 ração.</p><p><strong>Efeito alquímico:</strong> Óleo de pele vira base para tônicos térmicos.</p><p><strong>Extração:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> incomum em áreas quentes</p><p><strong>Região:</strong> Cavernas Vulcânicas</p><p><strong>Afinidade:</strong> fogo</p>"
+    },
+    "price": {
+      "value": 10
+    },
+    "weight": 0.5
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 2,
+      "region": "Cavernas Vulcânicas",
+      "affinity": "fogo"
+    }
+  },
+  "folder": null,
+  "sort": 15000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

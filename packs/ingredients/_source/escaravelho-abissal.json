@@ -1,0 +1,33 @@
+{
+  "_id": "escaravelhoa0013",
+  "name": "Escaravelho Abissal",
+  "type": "consumable",
+  "img": "modules/underdark-alchemy/assets/insects/escaravelho-abissal.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Escaravelho Abissal</strong> (Incomum).</p><p>Inseto de casco vermelho-escuro que acumula calor.</p><p><strong>Uso bruto:</strong> Pode ser torrado.</p><p><strong>Efeito bruto:</strong> Torrado: 1/2 ração e vantagem no próximo teste contra forced march.</p><p><strong>Efeito alquímico:</strong> Casco serve para elixires de resistência.</p><p><strong>Extração:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> raro em trilhas quentes</p><p><strong>Região:</strong> Túneis Profundos</p><p><strong>Afinidade:</strong> fogo/terra</p>"
+    },
+    "price": {
+      "value": 10
+    },
+    "weight": 0.5
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 2,
+      "region": "Túneis Profundos",
+      "affinity": "fogo/terra"
+    }
+  },
+  "folder": null,
+  "sort": 13000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

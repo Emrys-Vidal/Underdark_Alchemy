@@ -1,0 +1,37 @@
+{
+  "_id": "essenciadeau0006",
+  "name": "Essência de Audição Distante",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Essência de Audição Distante</strong> (Incomum).</p><p><strong>Ingredientes:</strong> Rã Ecoante, Cogumelo de Eco</p><p><strong>Resultado:</strong> Frasco azul-claro</p><p><strong>Efeito:</strong> Vantagem em Wisdom (Perception) baseado em hearing por 1 hour.</p><p><strong>Crafting:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p><p><strong>Notas:</strong> Muito útil em exploração cautelosa.</p>"
+    },
+    "price": {
+      "value": 30
+    },
+    "weight": 0.1
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronRecipe": true,
+      "tier": 2,
+      "region": "Lago Escuro",
+      "ingredients": [
+        "Rã Ecoante",
+        "Cogumelo de Eco"
+      ],
+      "result": "Frasco azul-claro"
+    }
+  },
+  "folder": null,
+  "sort": 6000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

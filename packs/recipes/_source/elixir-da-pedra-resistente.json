@@ -1,0 +1,38 @@
+{
+  "_id": "elixirdapedr0005",
+  "name": "Elixir da Pedra Resistente",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Elixir da Pedra Resistente</strong> (Incomum).</p><p><strong>Ingredientes:</strong> Fungo Véu Cinza, Besouro de Sal, Pó de Obsidiana Ritual</p><p><strong>Resultado:</strong> Frasco mineral</p><p><strong>Efeito:</strong> O alvo ganha +1 AC contra o próximo hit recebido antes de 1 hour.</p><p><strong>Crafting:</strong> teste DC 13 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p><p><strong>Notas:</strong> Popular entre mineradores e guardas.</p>"
+    },
+    "price": {
+      "value": 30
+    },
+    "weight": 0.1
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronRecipe": true,
+      "tier": 2,
+      "region": "Gracklstugh",
+      "ingredients": [
+        "Fungo Véu Cinza",
+        "Besouro de Sal",
+        "Pó de Obsidiana Ritual"
+      ],
+      "result": "Frasco mineral"
+    }
+  },
+  "folder": null,
+  "sort": 5000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

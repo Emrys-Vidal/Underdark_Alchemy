@@ -1,0 +1,37 @@
+{
+  "_id": "venenodematr0013",
+  "name": "Veneno de Matriarca Menor",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Veneno de Matriarca Menor</strong> (Raro).</p><p><strong>Ingredientes:</strong> Glândula de Veneno de Aranha Gigante, Cinza de Ritual Drow</p><p><strong>Resultado:</strong> 1 dose de veneno</p><p><strong>Efeito:</strong> No próximo hit, Constitution saving throw DC 13 ou poisoned por 1 minute.</p><p><strong>Crafting:</strong> teste DC 14 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p><p><strong>Notas:</strong> Estilo claramente drow.</p>"
+    },
+    "price": {
+      "value": 45
+    },
+    "weight": 0.1
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronRecipe": true,
+      "tier": 3,
+      "region": "Velkynvelve",
+      "ingredients": [
+        "Glândula de Veneno de Aranha Gigante",
+        "Cinza de Ritual Drow"
+      ],
+      "result": "1 dose de veneno"
+    }
+  },
+  "folder": null,
+  "sort": 13000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

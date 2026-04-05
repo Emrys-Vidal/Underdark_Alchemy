@@ -1,0 +1,37 @@
+{
+  "_id": "elixirdament0020",
+  "name": "Elixir da Mente Cercada",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Elixir da Mente Cercada</strong> (Aberrante).</p><p><strong>Ingredientes:</strong> Coração de Colmeia Psíquica, Essência Psíquica Destilada</p><p><strong>Resultado:</strong> Frasco violeta</p><p><strong>Efeito:</strong> O alvo ganha resistência a psychic damage por 1 hour e vantagem no próximo Wisdom saving throw contra charm ou fear.</p><p><strong>Crafting:</strong> teste DC 16 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p><p><strong>Notas:</strong> Receita rara e valiosa.</p>"
+    },
+    "price": {
+      "value": 75
+    },
+    "weight": 0.1
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronRecipe": true,
+      "tier": 5,
+      "region": "Túneis Profundos",
+      "ingredients": [
+        "Coração de Colmeia Psíquica",
+        "Essência Psíquica Destilada"
+      ],
+      "result": "Frasco violeta"
+    }
+  },
+  "folder": null,
+  "sort": 20000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

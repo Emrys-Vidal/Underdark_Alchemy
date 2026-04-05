@@ -1,0 +1,37 @@
+{
+  "_id": "oleodetensao0017",
+  "name": "Óleo de Tensão de Seda",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Óleo de Tensão de Seda</strong> (Muito Raro).</p><p><strong>Ingredientes:</strong> Aranha-Salto Alfa, Ovo de Cave Fisher</p><p><strong>Resultado:</strong> Frasco viscoso</p><p><strong>Efeito:</strong> Permite ignorar difficult terrain de teias por 1 hour e vantagem em Dexterity (Acrobatics) para equilibrar-se em cordas.</p><p><strong>Crafting:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p><p><strong>Notas:</strong> Muito útil em Velkynvelve.</p>"
+    },
+    "price": {
+      "value": 60
+    },
+    "weight": 0.1
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronRecipe": true,
+      "tier": 4,
+      "region": "Rotas de Seda",
+      "ingredients": [
+        "Aranha-Salto Alfa",
+        "Ovo de Cave Fisher"
+      ],
+      "result": "Frasco viscoso"
+    }
+  },
+  "folder": null,
+  "sort": 17000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

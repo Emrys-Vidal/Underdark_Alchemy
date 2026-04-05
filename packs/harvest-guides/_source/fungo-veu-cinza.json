@@ -1,0 +1,26 @@
+{
+  "_id": "coletafungov0011",
+  "name": "Coleta - Fungo Véu Cinza",
+  "pages": [
+    {
+      "_id": "pagefungoveu0011",
+      "name": "Guia de Coleta",
+      "type": "text",
+      "text": {
+        "content": "<h2>Fungo Véu Cinza</h2><p><strong>Região:</strong> Bosque Nunca Claro</p><p><strong>Harvest Check:</strong> DC 12 Wisdom (Nature) ou Survival</p><p><strong>Sucesso:</strong> 1 unidade</p><p><strong>Grande sucesso:</strong> 1d2 unidades</p><p><strong>Falha:</strong> ingrediente danificado ou perdido</p><p><strong>Chance de encontro:</strong> incomum sob troncos mortos</p>",
+        "format": 1
+      },
+      "sort": 1000
+    }
+  ],
+  "folder": null,
+  "sort": 11000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

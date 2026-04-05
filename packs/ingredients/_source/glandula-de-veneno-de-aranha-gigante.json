@@ -1,0 +1,33 @@
+{
+  "_id": "glanduladeve0027",
+  "name": "Glândula de Veneno de Aranha Gigante",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/monsters/glandula-de-veneno-de-aranha-gigante.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Glândula de Veneno de Aranha Gigante</strong> (Raro).</p><p>Bolsa orgânica de líquido escuro e viscoso.</p><p><strong>Uso bruto:</strong> Não comestível.</p><p><strong>Efeito bruto:</strong> Rompida sem cuidado exige teste DC 13 Dexterity check ou aplica veneno ao portador.</p><p><strong>Efeito alquímico:</strong> Ingrediente valioso para toxinas drow e antídotos.</p><p><strong>Extração:</strong> teste DC 13 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> raro após caça bem-sucedida</p><p><strong>Região:</strong> Velkynvelve</p><p><strong>Afinidade:</strong> veneno</p>"
+    },
+    "price": {
+      "value": 15
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 3,
+      "region": "Velkynvelve",
+      "affinity": "veneno"
+    }
+  },
+  "folder": null,
+  "sort": 27000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

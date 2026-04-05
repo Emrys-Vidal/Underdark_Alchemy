@@ -1,0 +1,33 @@
+{
+  "_id": "cinzadecircu0049",
+  "name": "Cinza de Círculo Quebrado",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/arcane/cinza-de-circulo-quebrado.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Cinza de Círculo Quebrado</strong> (Aberrante).</p><p>Cinza pesada que apaga luz fraca ao redor.</p><p><strong>Uso bruto:</strong> Não comestível.</p><p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p><p><strong>Efeito alquímico:</strong> Ideal para receitas de fuga, null ward e ruptura mágica.</p><p><strong>Extração:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> extremamente raro em locais sabotados</p><p><strong>Região:</strong> Velkynvelve</p><p><strong>Afinidade:</strong> sombra/planar</p>"
+    },
+    "price": {
+      "value": 25
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 5,
+      "region": "Velkynvelve",
+      "affinity": "sombra/planar"
+    }
+  },
+  "folder": null,
+  "sort": 49000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

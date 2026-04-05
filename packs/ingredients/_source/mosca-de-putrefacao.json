@@ -1,0 +1,33 @@
+{
+  "_id": "moscadeputre0023",
+  "name": "Mosca de Putrefação",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/insects/mosca-de-putrefacao.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Mosca de Putrefação</strong> (Raro).</p><p>Mosca verde-escura com abdômen inchado.</p><p><strong>Uso bruto:</strong> Não recomendável.</p><p><strong>Efeito bruto:</strong> Cru: teste DC 13 Constitution saving throw ou poisoned por 10 minutes.</p><p><strong>Efeito alquímico:</strong> Ótima para venenos e filtros de decomposição.</p><p><strong>Extração:</strong> teste DC 13 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> raro perto de matéria em decomposição</p><p><strong>Região:</strong> Bosque Nunca Claro</p><p><strong>Afinidade:</strong> veneno</p>"
+    },
+    "price": {
+      "value": 15
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 3,
+      "region": "Bosque Nunca Claro",
+      "affinity": "veneno"
+    }
+  },
+  "folder": null,
+  "sort": 23000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

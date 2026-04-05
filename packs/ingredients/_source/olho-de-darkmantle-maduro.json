@@ -1,0 +1,33 @@
+{
+  "_id": "olhodedarkma0029",
+  "name": "Olho de Darkmantle Maduro",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/monsters/olho-de-darkmantle-maduro.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Olho de Darkmantle Maduro</strong> (Raro).</p><p>Olho opaco que ainda reage à sombra próxima.</p><p><strong>Uso bruto:</strong> Não comestível.</p><p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p><p><strong>Efeito alquímico:</strong> Serve para extratos de percepção em darkness.</p><p><strong>Extração:</strong> teste DC 13 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> raro em cavernas de caça</p><p><strong>Região:</strong> Túneis Profundos</p><p><strong>Afinidade:</strong> sombra/sentidos</p>"
+    },
+    "price": {
+      "value": 15
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 3,
+      "region": "Túneis Profundos",
+      "affinity": "sombra/sentidos"
+    }
+  },
+  "folder": null,
+  "sort": 29000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "mucodecarrio0017",
+  "name": "Muco de Carrion Crawler",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/monsters/muco-de-carrion-crawler.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Muco de Carrion Crawler</strong> (Incomum).</p><p>Muco espesso colhido de um predador subterrâneo.</p><p><strong>Uso bruto:</strong> Não comestível.</p><p><strong>Efeito bruto:</strong> Contato descuidado: teste DC 12 Constitution saving throw ou speed reduzida em 3 m por 1 minute.</p><p><strong>Efeito alquímico:</strong> Ingrediente clássico para paralisantes e colas orgânicas.</p><p><strong>Extração:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> raro onde há carniça</p><p><strong>Região:</strong> Rotas de Seda</p><p><strong>Afinidade:</strong> veneno/paralisia</p>"
+    },
+    "price": {
+      "value": 10
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 2,
+      "region": "Rotas de Seda",
+      "affinity": "veneno/paralisia"
+    }
+  },
+  "folder": null,
+  "sort": 17000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

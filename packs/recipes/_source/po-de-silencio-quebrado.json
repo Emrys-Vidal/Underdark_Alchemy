@@ -1,0 +1,37 @@
+{
+  "_id": "podesilencio0011",
+  "name": "Pó de Silêncio Quebrado",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Pó de Silêncio Quebrado</strong> (Raro).</p><p><strong>Ingredientes:</strong> Cigarra do Vazio, Pedra de Eco Arcano</p><p><strong>Resultado:</strong> Saquinho de pó negro</p><p><strong>Efeito:</strong> Ao espalhar, reduz sons óbvios num raio de 3 m por 1 minute.</p><p><strong>Crafting:</strong> teste DC 14 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p><p><strong>Notas:</strong> Não cria silence mágico completo.</p>"
+    },
+    "price": {
+      "value": 45
+    },
+    "weight": 0.1
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronRecipe": true,
+      "tier": 3,
+      "region": "Túneis Profundos",
+      "ingredients": [
+        "Cigarra do Vazio",
+        "Pedra de Eco Arcano"
+      ],
+      "result": "Saquinho de pó negro"
+    }
+  },
+  "folder": null,
+  "sort": 11000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

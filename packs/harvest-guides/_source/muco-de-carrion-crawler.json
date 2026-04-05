@@ -1,0 +1,26 @@
+{
+  "_id": "coletamucode0017",
+  "name": "Coleta - Muco de Carrion Crawler",
+  "pages": [
+    {
+      "_id": "pagemucodeca0017",
+      "name": "Guia de Coleta",
+      "type": "text",
+      "text": {
+        "content": "<h2>Muco de Carrion Crawler</h2><p><strong>Região:</strong> Rotas de Seda</p><p><strong>Harvest Check:</strong> DC 12 Wisdom (Nature) ou Survival</p><p><strong>Sucesso:</strong> 1 unidade</p><p><strong>Grande sucesso:</strong> 1d2 unidades</p><p><strong>Falha:</strong> ingrediente danificado ou perdido</p><p><strong>Chance de encontro:</strong> raro onde há carniça</p>",
+        "format": 1
+      },
+      "sort": 1000
+    }
+  ],
+  "folder": null,
+  "sort": 17000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

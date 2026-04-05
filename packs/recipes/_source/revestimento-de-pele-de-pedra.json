@@ -1,0 +1,37 @@
+{
+  "_id": "revestimento0014",
+  "name": "Revestimento de Pele de Pedra",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Revestimento de Pele de Pedra</strong> (Raro).</p><p><strong>Ingredientes:</strong> Fungo Dente-de-Pedra, Sal Abissal Purificado</p><p><strong>Resultado:</strong> Pasta mineral</p><p><strong>Efeito:</strong> O alvo ganha resistance a slashing não-mágico até o fim do próximo turno.</p><p><strong>Crafting:</strong> teste DC 14 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p><p><strong>Notas:</strong> Uso de emergência.</p>"
+    },
+    "price": {
+      "value": 45
+    },
+    "weight": 0.1
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronRecipe": true,
+      "tier": 3,
+      "region": "Gracklstugh",
+      "ingredients": [
+        "Fungo Dente-de-Pedra",
+        "Sal Abissal Purificado"
+      ],
+      "result": "Pasta mineral"
+    }
+  },
+  "folder": null,
+  "sort": 14000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

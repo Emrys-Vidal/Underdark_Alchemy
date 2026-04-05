@@ -1,0 +1,37 @@
+{
+  "_id": "caldodolagoe0003",
+  "name": "Caldo do Lago Escuro",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Caldo do Lago Escuro</strong> (Comum).</p><p><strong>Ingredientes:</strong> Peixe-Cego do Lago Escuro, Musgo de Água Fria</p><p><strong>Resultado:</strong> Ração fortificada</p><p><strong>Efeito:</strong> Conta como 2 rações leves e dá vantagem no próximo Constitution saving throw contra exaustão por marcha.</p><p><strong>Crafting:</strong> teste DC 10 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p><p><strong>Notas:</strong> Receita regional simples.</p>"
+    },
+    "price": {
+      "value": 15
+    },
+    "weight": 0.1
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronRecipe": true,
+      "tier": 1,
+      "region": "Lago Escuro",
+      "ingredients": [
+        "Peixe-Cego do Lago Escuro",
+        "Musgo de Água Fria"
+      ],
+      "result": "Ração fortificada"
+    }
+  },
+  "folder": null,
+  "sort": 3000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

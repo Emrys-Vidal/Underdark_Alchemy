@@ -1,0 +1,37 @@
+{
+  "_id": "balsamodarai0019",
+  "name": "Bálsamo da Rainha Fúngica",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Bálsamo da Rainha Fúngica</strong> (Aberrante).</p><p><strong>Ingredientes:</strong> Esporo da Rainha de Fungos, Micélio de Sonho Cinza</p><p><strong>Resultado:</strong> Pasta aberrante</p><p><strong>Efeito:</strong> Pode acelerar crescimento fúngico ou, aplicado a cadáver fresco, gerar terreno contaminado num raio de 3 m por 1 hour.</p><p><strong>Crafting:</strong> teste DC 16 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p><p><strong>Notas:</strong> Claramente perigoso e anti-natural.</p>"
+    },
+    "price": {
+      "value": 75
+    },
+    "weight": 0.1
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronRecipe": true,
+      "tier": 5,
+      "region": "Bosque Nunca Claro",
+      "ingredients": [
+        "Esporo da Rainha de Fungos",
+        "Micélio de Sonho Cinza"
+      ],
+      "result": "Pasta aberrante"
+    }
+  },
+  "folder": null,
+  "sort": 19000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "ampoladeblin0018",
+  "name": "Ampola de Blink Instável",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Ampola de Blink Instável</strong> (Muito Raro).</p><p><strong>Ingredientes:</strong> Fragmento de Portal Menor, Areia do Plano Etéreo</p><p><strong>Resultado:</strong> Ampola translúcida</p><p><strong>Efeito:</strong> Como bônus, o usuário teleporta até 3 m para espaço visível. Depois, Constitution saving throw DC 13 ou fica prone.</p><p><strong>Crafting:</strong> teste DC 16 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p><p><strong>Notas:</strong> Uso único e arriscado.</p>"
+    },
+    "price": {
+      "value": 60
+    },
+    "weight": 0.1
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronRecipe": true,
+      "tier": 4,
+      "region": "Gracklstugh",
+      "ingredients": [
+        "Fragmento de Portal Menor",
+        "Areia do Plano Etéreo"
+      ],
+      "result": "Ampola translúcida"
+    }
+  },
+  "folder": null,
+  "sort": 18000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "fungoveucinz0011",
+  "name": "Fungo Véu Cinza",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/fungi/fungo-veu-cinza.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Fungo Véu Cinza</strong> (Incomum).</p><p>Fungo frio ao toque que filtra umidade do ar.</p><p><strong>Uso bruto:</strong> Precisa secar.</p><p><strong>Efeito bruto:</strong> Sem preparo, desvantagem no próximo Charisma check, mas vantagem no próximo Wisdom (Survival) em cavernas.</p><p><strong>Efeito alquímico:</strong> Espessante de tônicos de resistência.</p><p><strong>Extração:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> incomum sob troncos mortos</p><p><strong>Região:</strong> Bosque Nunca Claro</p><p><strong>Afinidade:</strong> terra</p>"
+    },
+    "price": {
+      "value": 10
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 2,
+      "region": "Bosque Nunca Claro",
+      "affinity": "terra"
+    }
+  },
+  "folder": null,
+  "sort": 11000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

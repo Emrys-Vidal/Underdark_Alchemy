@@ -1,0 +1,33 @@
+{
+  "_id": "vespadafenda0043",
+  "name": "Vespa da Fenda Abissal",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/insects/vespa-da-fenda-abissal.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Vespa da Fenda Abissal</strong> (Aberrante).</p><p>Inseto negro-azulado de ferrão quase metálico.</p><p><strong>Uso bruto:</strong> Não comestível.</p><p><strong>Efeito bruto:</strong> Ferrão cru pode ser aplicado a uma arma improvisada para 1 hit antes de perder potência.</p><p><strong>Efeito alquímico:</strong> Ingrediente de toxinas violentas e injetores rápidos.</p><p><strong>Extração:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> extremamente raro em abismos quentes</p><p><strong>Região:</strong> Túneis Profundos</p><p><strong>Afinidade:</strong> veneno/abissal</p>"
+    },
+    "price": {
+      "value": 25
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 5,
+      "region": "Túneis Profundos",
+      "affinity": "veneno/abissal"
+    }
+  },
+  "folder": null,
+  "sort": 43000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

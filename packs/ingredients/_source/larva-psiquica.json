@@ -1,0 +1,33 @@
+{
+  "_id": "larvapsiquic0014",
+  "name": "Larva Psíquica",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/insects/larva-psiquica.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Larva Psíquica</strong> (Incomum).</p><p>Larva translúcida com pulsações lilases.</p><p><strong>Uso bruto:</strong> Nunca deve ser comida crua.</p><p><strong>Efeito bruto:</strong> Cru: teste DC 12 Wisdom saving throw ou 1 psychic damage.</p><p><strong>Efeito alquímico:</strong> Destilada, entra em poções de foco mental.</p><p><strong>Extração:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> raro em cadáveres tocados por aberrações</p><p><strong>Região:</strong> Túneis Profundos</p><p><strong>Afinidade:</strong> psíquico</p>"
+    },
+    "price": {
+      "value": 10
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 2,
+      "region": "Túneis Profundos",
+      "affinity": "psíquico"
+    }
+  },
+  "folder": null,
+  "sort": 14000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

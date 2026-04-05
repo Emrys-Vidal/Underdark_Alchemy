@@ -1,0 +1,33 @@
+{
+  "_id": "escamadebasi0047",
+  "name": "Escama de Basilisco Jovem",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/monsters/escama-de-basilisco-jovem.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Escama de Basilisco Jovem</strong> (Aberrante).</p><p>Escama áspera impregnada de magia estagnante.</p><p><strong>Uso bruto:</strong> Não comestível.</p><p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p><p><strong>Efeito alquímico:</strong> Ingrediente poderoso para petrificação e antídotos contra stone gaze.</p><p><strong>Extração:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> extremamente raro em tocas de predadores</p><p><strong>Região:</strong> Túneis Profundos</p><p><strong>Afinidade:</strong> petrificação</p>"
+    },
+    "price": {
+      "value": 25
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 5,
+      "region": "Túneis Profundos",
+      "affinity": "petrificação"
+    }
+  },
+  "folder": null,
+  "sort": 47000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

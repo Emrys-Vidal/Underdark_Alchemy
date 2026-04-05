@@ -1,0 +1,33 @@
+{
+  "_id": "sapolanterna0035",
+  "name": "Sapo Lanternado",
+  "type": "consumable",
+  "img": "modules/underdark-alchemy/assets/amphibians/sapo-lanternado.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Sapo Lanternado</strong> (Muito Raro).</p><p>Anfíbio com bolsa luminosa no peito.</p><p><strong>Uso bruto:</strong> Pode ser cozido.</p><p><strong>Efeito bruto:</strong> Cozido: 1 ração e darkvision 9 m por 1 hour se o alvo não tiver.</p><p><strong>Efeito alquímico:</strong> Órgãos lumínicos servem para elixires de visão.</p><p><strong>Extração:</strong> teste DC 14 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> muito raro em lagos sem corrente</p><p><strong>Região:</strong> Lago Escuro</p><p><strong>Afinidade:</strong> luz/água</p>"
+    },
+    "price": {
+      "value": 20
+    },
+    "weight": 0.5
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 4,
+      "region": "Lago Escuro",
+      "affinity": "luz/água"
+    }
+  },
+  "folder": null,
+  "sort": 35000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

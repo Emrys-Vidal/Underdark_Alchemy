@@ -1,0 +1,37 @@
+{
+  "_id": "tonicodeluzf0001",
+  "name": "Tônico de Luz Fria",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Tônico de Luz Fria</strong> (Comum).</p><p><strong>Ingredientes:</strong> Esporo Luminescente, Musgo de Água Fria</p><p><strong>Resultado:</strong> Frasco de luz fria</p><p><strong>Efeito:</strong> O alvo emite bright light em 3 m e dim light em 3 m adicionais por 1 hour.</p><p><strong>Crafting:</strong> teste DC 11 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p><p><strong>Notas:</strong> Mistura estável e barata para exploração.</p>"
+    },
+    "price": {
+      "value": 15
+    },
+    "weight": 0.1
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronRecipe": true,
+      "tier": 1,
+      "region": "Velkynvelve",
+      "ingredients": [
+        "Esporo Luminescente",
+        "Musgo de Água Fria"
+      ],
+      "result": "Frasco de luz fria"
+    }
+  },
+  "folder": null,
+  "sort": 1000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

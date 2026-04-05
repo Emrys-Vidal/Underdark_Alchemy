@@ -1,0 +1,26 @@
+{
+  "_id": "coletaquitin0007",
+  "name": "Coleta - Quitina de Darkmantle",
+  "pages": [
+    {
+      "_id": "pagequitinad0007",
+      "name": "Guia de Coleta",
+      "type": "text",
+      "text": {
+        "content": "<h2>Quitina de Darkmantle</h2><p><strong>Região:</strong> Túneis Profundos</p><p><strong>Harvest Check:</strong> DC 11 Wisdom (Nature) ou Survival</p><p><strong>Sucesso:</strong> 1 unidade</p><p><strong>Grande sucesso:</strong> 1d2 unidades</p><p><strong>Falha:</strong> ingrediente danificado ou perdido</p><p><strong>Chance de encontro:</strong> incomum em tetos de cavernas</p>",
+        "format": 1
+      },
+      "sort": 1000
+    }
+  ],
+  "folder": null,
+  "sort": 7000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "fungosangras0032",
+  "name": "Fungo Sangra-Seiva",
+  "type": "consumable",
+  "img": "modules/underdark-alchemy/assets/fungi/fungo-sangra-seiva.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Fungo Sangra-Seiva</strong> (Muito Raro).</p><p>Ao cortar o caule escorre uma seiva vermelha quente.</p><p><strong>Uso bruto:</strong> Pode ser reduzido e cozido.</p><p><strong>Efeito bruto:</strong> Redução: 1/2 ração e resistência a fire damage até o início do próximo turno.</p><p><strong>Efeito alquímico:</strong> Base para bálsamos térmicos potentes.</p><p><strong>Extração:</strong> teste DC 14 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> muito raro perto de fumarolas</p><p><strong>Região:</strong> Cavernas Vulcânicas</p><p><strong>Afinidade:</strong> fogo</p>"
+    },
+    "price": {
+      "value": 20
+    },
+    "weight": 0.5
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 4,
+      "region": "Cavernas Vulcânicas",
+      "affinity": "fogo"
+    }
+  },
+  "folder": null,
+  "sort": 32000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

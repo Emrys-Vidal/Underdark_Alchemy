@@ -1,0 +1,37 @@
+{
+  "_id": "tonicodeagua0012",
+  "name": "Tônico de Água Profunda",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Tônico de Água Profunda</strong> (Raro).</p><p><strong>Ingredientes:</strong> Axolote Sombrio, Girino Aboleth</p><p><strong>Resultado:</strong> Frasco escuro</p><p><strong>Efeito:</strong> O alvo pode respirar underwater por 10 minutes.</p><p><strong>Crafting:</strong> teste DC 14 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p><p><strong>Notas:</strong> Pode causar sonhos estranhos após uso.</p>"
+    },
+    "price": {
+      "value": 45
+    },
+    "weight": 0.1
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronRecipe": true,
+      "tier": 3,
+      "region": "Lago Escuro",
+      "ingredients": [
+        "Axolote Sombrio",
+        "Girino Aboleth"
+      ],
+      "result": "Frasco escuro"
+    }
+  },
+  "folder": null,
+  "sort": 12000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

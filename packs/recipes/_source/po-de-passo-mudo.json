@@ -1,0 +1,37 @@
+{
+  "_id": "podepassomud0002",
+  "name": "Pó de Passo Mudo",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Pó de Passo Mudo</strong> (Comum).</p><p><strong>Ingredientes:</strong> Mariposa das Cavernas, Quitina de Darkmantle</p><p><strong>Resultado:</strong> Saquinho de pó cinzento</p><p><strong>Efeito:</strong> O usuário ganha vantagem no próximo Dexterity (Stealth) feito em darkness ou stone terrain.</p><p><strong>Crafting:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p><p><strong>Notas:</strong> Pode ser lançado sobre botas ou roupa.</p>"
+    },
+    "price": {
+      "value": 15
+    },
+    "weight": 0.1
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronRecipe": true,
+      "tier": 1,
+      "region": "Velkynvelve",
+      "ingredients": [
+        "Mariposa das Cavernas",
+        "Quitina de Darkmantle"
+      ],
+      "result": "Saquinho de pó cinzento"
+    }
+  },
+  "folder": null,
+  "sort": 2000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

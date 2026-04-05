@@ -1,0 +1,33 @@
+{
+  "_id": "cogumelodeec0002",
+  "name": "Cogumelo de Eco",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/fungi/cogumelo-de-eco.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Cogumelo de Eco</strong> (Comum).</p><p>Fungo fino que vibra com sons graves.</p><p><strong>Uso bruto:</strong> Precisa de preparo leve.</p><p><strong>Efeito bruto:</strong> Sem preparo, vantagem no próximo Wisdom (Perception) baseado em hearing em até 10 minutes.</p><p><strong>Efeito alquímico:</strong> Estabiliza elixires sonoros e de stealth.</p><p><strong>Extração:</strong> teste DC 11 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> comum em passagens estreitas</p><p><strong>Região:</strong> Túneis Profundos</p><p><strong>Afinidade:</strong> som</p>"
+    },
+    "price": {
+      "value": 5
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 1,
+      "region": "Túneis Profundos",
+      "affinity": "som"
+    }
+  },
+  "folder": null,
+  "sort": 2000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

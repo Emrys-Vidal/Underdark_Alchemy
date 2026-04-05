@@ -1,0 +1,33 @@
+{
+  "_id": "fungooraculo0031",
+  "name": "Fungo Oráculo",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/fungi/fungo-oraculo.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Fungo Oráculo</strong> (Muito Raro).</p><p>Fungo de chapéu leitoso com veios dourados.</p><p><strong>Uso bruto:</strong> Apenas em doses mínimas.</p><p><strong>Efeito bruto:</strong> Cru: teste DC 14 Wisdom saving throw ou incapacitado até o fim do próximo turno por visões.</p><p><strong>Efeito alquímico:</strong> Ingrediente de poções de adivinhação e insight.</p><p><strong>Extração:</strong> teste DC 14 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> muito raro em bolsões de gás</p><p><strong>Região:</strong> Túneis Profundos</p><p><strong>Afinidade:</strong> adivinhação/psíquico</p>"
+    },
+    "price": {
+      "value": 20
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 4,
+      "region": "Túneis Profundos",
+      "affinity": "adivinhação/psíquico"
+    }
+  },
+  "folder": null,
+  "sort": 31000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

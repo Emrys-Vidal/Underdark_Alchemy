@@ -1,0 +1,73 @@
+{
+  "id": "underdark-alchemy",
+  "title": "Underdark Alchemy",
+  "version": "2.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "description": "<div><p>Pacote de ingredientes regionais do Underdark, receitas e tabelas para Foundry VTT com integração via flags para Shattered Codex / Cauldron.</p></div>",
+  "authors": [
+    {
+      "name": "Blaidd",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "sc-the-cauldron",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "harvest-guides",
+      "label": "Harvest Guides",
+      "path": "packs/harvest-guides",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "ingredients",
+      "label": "Ingredients",
+      "path": "packs/ingredients",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "recipes",
+      "label": "Recipes",
+      "path": "packs/recipes",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "regional-encounters",
+      "label": "Regional",
+      "path": "packs/regional-encounters",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "esporodarain0041",
+  "name": "Esporo da Rainha de Fungos",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/fungi/esporo-da-rainha-de-fungos.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Esporo da Rainha de Fungos</strong> (Aberrante).</p><p>Esporo pesado que pulsa como um coração em miniatura.</p><p><strong>Uso bruto:</strong> Jamais cru.</p><p><strong>Efeito bruto:</strong> Contato exige teste DC 16 Constitution saving throw ou poisoned por 1 minute.</p><p><strong>Efeito alquímico:</strong> Ingrediente aberrante para receitas de corrupção e crescimento fúngico.</p><p><strong>Extração:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> quase único em focos corrompidos</p><p><strong>Região:</strong> Bosque Nunca Claro</p><p><strong>Afinidade:</strong> fúngico/abissal</p>"
+    },
+    "price": {
+      "value": 25
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 5,
+      "region": "Bosque Nunca Claro",
+      "affinity": "fúngico/abissal"
+    }
+  },
+  "folder": null,
+  "sort": 41000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

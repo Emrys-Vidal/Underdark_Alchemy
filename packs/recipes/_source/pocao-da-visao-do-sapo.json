@@ -1,0 +1,37 @@
+{
+  "_id": "pocaodavisao0016",
+  "name": "Poção da Visão do Sapo",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Poção da Visão do Sapo</strong> (Muito Raro).</p><p><strong>Ingredientes:</strong> Sapo Lanternado, Fungo Oráculo</p><p><strong>Resultado:</strong> Poção dourada</p><p><strong>Efeito:</strong> Garante darkvision 18 m por 8 hours; se já possuir, soma 9 m.</p><p><strong>Crafting:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p><p><strong>Notas:</strong> Mistura valiosa para batedores.</p>"
+    },
+    "price": {
+      "value": 60
+    },
+    "weight": 0.1
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronRecipe": true,
+      "tier": 4,
+      "region": "Lago Escuro",
+      "ingredients": [
+        "Sapo Lanternado",
+        "Fungo Oráculo"
+      ],
+      "result": "Poção dourada"
+    }
+  },
+  "folder": null,
+  "sort": 16000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "mariposadasc0004",
+  "name": "Mariposa das Cavernas",
+  "type": "consumable",
+  "img": "modules/underdark-alchemy/assets/insects/mariposa-das-cavernas.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Mariposa das Cavernas</strong> (Comum).</p><p>Mariposa pálida que parece absorver penumbra.</p><p><strong>Uso bruto:</strong> Pode ser comida seca.</p><p><strong>Efeito bruto:</strong> Conta como 1/2 ração; asas secas dão vantagem no próximo Dexterity (Stealth) em darkness.</p><p><strong>Efeito alquímico:</strong> Usada em pós de camuflagem.</p><p><strong>Extração:</strong> teste DC 11 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> comum perto de fungos-lanterna</p><p><strong>Região:</strong> Velkynvelve</p><p><strong>Afinidade:</strong> sombra</p>"
+    },
+    "price": {
+      "value": 5
+    },
+    "weight": 0.5
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 1,
+      "region": "Velkynvelve",
+      "affinity": "sombra"
+    }
+  },
+  "folder": null,
+  "sort": 4000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

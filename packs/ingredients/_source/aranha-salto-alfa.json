@@ -1,0 +1,33 @@
+{
+  "_id": "aranhasaltoa0034",
+  "name": "Aranha-Salto Alfa",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/insects/aranha-salto-alfa.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Aranha-Salto Alfa</strong> (Muito Raro).</p><p>Predador pequeno e rápido, criado para caça em salto.</p><p><strong>Uso bruto:</strong> Não comestível.</p><p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p><p><strong>Efeito alquímico:</strong> Fios internos viram base para misturas adesivas e mobilidade.</p><p><strong>Extração:</strong> teste DC 14 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> muito raro em ninhos verticais</p><p><strong>Região:</strong> Rotas de Seda</p><p><strong>Afinidade:</strong> web/agilidade</p>"
+    },
+    "price": {
+      "value": 20
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 4,
+      "region": "Rotas de Seda",
+      "affinity": "web/agilidade"
+    }
+  },
+  "folder": null,
+  "sort": 34000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

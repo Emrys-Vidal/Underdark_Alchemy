@@ -1,0 +1,33 @@
+{
+  "_id": "salabissalpu0030",
+  "name": "Sal Abissal Purificado",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/arcane/sal-abissal-purificado.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Sal Abissal Purificado</strong> (Raro).</p><p>Cristais escuros com cheiro fraco de ozônio.</p><p><strong>Uso bruto:</strong> Não comestível.</p><p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p><p><strong>Efeito alquímico:</strong> Estabiliza misturas voláteis ligadas ao Lower Planes.</p><p><strong>Extração:</strong> teste DC 13 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> raro em depósitos profundos</p><p><strong>Região:</strong> Gracklstugh</p><p><strong>Afinidade:</strong> abissal</p>"
+    },
+    "price": {
+      "value": 15
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 3,
+      "region": "Gracklstugh",
+      "affinity": "abissal"
+    }
+  },
+  "folder": null,
+  "sort": 30000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

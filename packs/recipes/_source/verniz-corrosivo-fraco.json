@@ -1,0 +1,37 @@
+{
+  "_id": "vernizcorros0004",
+  "name": "Verniz Corrosivo Fraco",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Verniz Corrosivo Fraco</strong> (Comum).</p><p><strong>Ingredientes:</strong> Besouro Ácido Menor, Ferrão de Aranha Menor</p><p><strong>Resultado:</strong> 1 aplicação de verniz</p><p><strong>Efeito:</strong> Na próxima vez que uma arma atingir, causa +1 acid damage.</p><p><strong>Crafting:</strong> teste DC 11 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p><p><strong>Notas:</strong> Perde potência após 1 hit ou 1 hour.</p>"
+    },
+    "price": {
+      "value": 15
+    },
+    "weight": 0.1
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronRecipe": true,
+      "tier": 1,
+      "region": "Rotas de Seda",
+      "ingredients": [
+        "Besouro Ácido Menor",
+        "Ferrão de Aranha Menor"
+      ],
+      "result": "1 aplicação de verniz"
+    }
+  },
+  "folder": null,
+  "sort": 4000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

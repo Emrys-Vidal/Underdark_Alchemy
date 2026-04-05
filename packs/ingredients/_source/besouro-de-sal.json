@@ -1,0 +1,33 @@
+{
+  "_id": "besourodesal0019",
+  "name": "Besouro de Sal",
+  "type": "consumable",
+  "img": "modules/underdark-alchemy/assets/insects/besouro-de-sal.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Besouro de Sal</strong> (Incomum).</p><p>Inseto esbranquiçado de casco cristalino.</p><p><strong>Uso bruto:</strong> Pode ser tostado.</p><p><strong>Efeito bruto:</strong> Tostado: 1/2 ração e ajuda a conservar carne por 1 day.</p><p><strong>Efeito alquímico:</strong> Moído, atua como estabilizador mineral.</p><p><strong>Extração:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> incomum perto de depósitos salinos</p><p><strong>Região:</strong> Gracklstugh</p><p><strong>Afinidade:</strong> terra</p>"
+    },
+    "price": {
+      "value": 10
+    },
+    "weight": 0.5
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 2,
+      "region": "Gracklstugh",
+      "affinity": "terra"
+    }
+  },
+  "folder": null,
+  "sort": 19000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

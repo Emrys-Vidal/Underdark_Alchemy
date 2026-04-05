@@ -1,0 +1,117 @@
+{
+  "_id": "velkynvelve0001",
+  "name": "Encontros Regionais - Velkynvelve",
+  "description": "Tabela regional de ingredientes e eventos para Velkynvelve.",
+  "img": "icons/svg/d20-grey.svg",
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "velkynvelve10001",
+      "type": 0,
+      "text": "Esporo Luminescente",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 4,
+      "range": [
+        1,
+        4
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "velkynvelve20002",
+      "type": 0,
+      "text": "Mariposa das Cavernas",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 3,
+      "range": [
+        5,
+        7
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "velkynvelve30003",
+      "type": 0,
+      "text": "Ferrão de Aranha Menor",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 3,
+      "range": [
+        8,
+        10
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "velkynvelve40004",
+      "type": 0,
+      "text": "Cinza de Ritual Drow",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 3,
+      "range": [
+        11,
+        13
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "velkynvelve50005",
+      "type": 0,
+      "text": "Glândula de Veneno de Aranha Gigante",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 3,
+      "range": [
+        14,
+        16
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "velkynvelve60006",
+      "type": 0,
+      "text": "Tinta de Web Escura (pronta)",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 2,
+      "range": [
+        17,
+        18
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "velkynvelve70007",
+      "type": 0,
+      "text": "Cinza de Círculo Quebrado",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "velkynvelve80008",
+      "type": 0,
+      "text": "ingrediente raro à escolha do DM",
+      "img": "icons/svg/d20-grey.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false
+    }
+  ],
+  "folder": null,
+  "sort": 1000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

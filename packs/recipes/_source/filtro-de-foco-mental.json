@@ -1,0 +1,37 @@
+{
+  "_id": "filtrodefoco0010",
+  "name": "Filtro de Foco Mental",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Filtro de Foco Mental</strong> (Incomum).</p><p><strong>Ingredientes:</strong> Larva Psíquica, Cogumelo de Eco</p><p><strong>Resultado:</strong> Frasco lilás</p><p><strong>Efeito:</strong> Vantagem no próximo Intelligence (Arcana) ou Wisdom (Insight).</p><p><strong>Crafting:</strong> teste DC 13 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p><p><strong>Notas:</strong> O gosto é péssimo.</p>"
+    },
+    "price": {
+      "value": 30
+    },
+    "weight": 0.1
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronRecipe": true,
+      "tier": 2,
+      "region": "Túneis Profundos",
+      "ingredients": [
+        "Larva Psíquica",
+        "Cogumelo de Eco"
+      ],
+      "result": "Frasco lilás"
+    }
+  },
+  "folder": null,
+  "sort": 10000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

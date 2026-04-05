@@ -1,0 +1,33 @@
+{
+  "_id": "sapoderochaj0006",
+  "name": "Sapo de Rocha Jovem",
+  "type": "consumable",
+  "img": "modules/underdark-alchemy/assets/amphibians/sapo-de-rocha-jovem.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Sapo de Rocha Jovem</strong> (Comum).</p><p>Anfíbio cinzento que se confunde com cascalho.</p><p><strong>Uso bruto:</strong> Só após limpeza.</p><p><strong>Efeito bruto:</strong> Cru: teste DC 10 Constitution saving throw ou poisoned até o fim do próximo turno; cozido: 1 ração.</p><p><strong>Efeito alquímico:</strong> Pele e glândulas servem para adesivos e venenos leves.</p><p><strong>Extração:</strong> teste DC 11 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> incomum em poças frias</p><p><strong>Região:</strong> Fendas Úmidas</p><p><strong>Afinidade:</strong> veneno</p>"
+    },
+    "price": {
+      "value": 5
+    },
+    "weight": 0.5
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 1,
+      "region": "Fendas Úmidas",
+      "affinity": "veneno"
+    }
+  },
+  "folder": null,
+  "sort": 6000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

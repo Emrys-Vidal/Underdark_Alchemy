@@ -1,0 +1,33 @@
+{
+  "_id": "ovodecavefis0039",
+  "name": "Ovo de Cave Fisher",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/monsters/ovo-de-cave-fisher.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Ovo de Cave Fisher</strong> (Muito Raro).</p><p>Ovo translúcido preenchido com fios densos.</p><p><strong>Uso bruto:</strong> Não comestível.</p><p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p><p><strong>Efeito alquímico:</strong> Excelente em receitas de tether, armadilha e alça adesiva.</p><p><strong>Extração:</strong> teste DC 14 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> muito raro em cavidades altas</p><p><strong>Região:</strong> Rotas de Seda</p><p><strong>Afinidade:</strong> web/caça</p>"
+    },
+    "price": {
+      "value": 20
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 4,
+      "region": "Rotas de Seda",
+      "affinity": "web/caça"
+    }
+  },
+  "folder": null,
+  "sort": 39000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

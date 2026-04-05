@@ -1,0 +1,33 @@
+{
+  "_id": "ferraodearan0010",
+  "name": "Ferrão de Aranha Menor",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/monsters/ferrao-de-aranha-menor.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Ferrão de Aranha Menor</strong> (Comum).</p><p>Ferrão fino ainda úmido de toxina.</p><p><strong>Uso bruto:</strong> Não comestível.</p><p><strong>Efeito bruto:</strong> Aplicado sem cuidado exige teste DC 10 Dexterity check para evitar 1 poison damage.</p><p><strong>Efeito alquímico:</strong> Ingrediente simples para venenos fracos.</p><p><strong>Extração:</strong> teste DC 11 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> comum após limpeza de ninhos</p><p><strong>Região:</strong> Velkynvelve</p><p><strong>Afinidade:</strong> veneno</p>"
+    },
+    "price": {
+      "value": 5
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 1,
+      "region": "Velkynvelve",
+      "affinity": "veneno"
+    }
+  },
+  "folder": null,
+  "sort": 10000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

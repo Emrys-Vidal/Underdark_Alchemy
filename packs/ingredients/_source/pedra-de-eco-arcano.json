@@ -1,0 +1,33 @@
+{
+  "_id": "pedradeecoar0028",
+  "name": "Pedra de Eco Arcano",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/arcane/pedra-de-eco-arcano.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Pedra de Eco Arcano</strong> (Raro).</p><p>Seixo translúcido que repete vibrações mágicas.</p><p><strong>Uso bruto:</strong> Não comestível.</p><p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p><p><strong>Efeito alquímico:</strong> Armazena uma única ressonância; excelente em receitas de som e memória.</p><p><strong>Extração:</strong> teste DC 13 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> raro em mercados e ruínas</p><p><strong>Região:</strong> Gracklstugh</p><p><strong>Afinidade:</strong> som/arcano</p>"
+    },
+    "price": {
+      "value": 15
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 3,
+      "region": "Gracklstugh",
+      "affinity": "som/arcano"
+    }
+  },
+  "folder": null,
+  "sort": 28000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

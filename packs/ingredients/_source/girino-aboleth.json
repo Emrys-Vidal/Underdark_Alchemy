@@ -1,0 +1,33 @@
+{
+  "_id": "girinoabolet0026",
+  "name": "Girino Aboleth",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/amphibians/girino-aboleth.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Girino Aboleth</strong> (Raro).</p><p>Forma larval gelatinosa com membranas iridescentes.</p><p><strong>Uso bruto:</strong> Nunca cru.</p><p><strong>Efeito bruto:</strong> Cru: teste DC 14 Wisdom saving throw ou 1 psychic damage e visions breves.</p><p><strong>Efeito alquímico:</strong> Destilado, serve para receitas psíquicas.</p><p><strong>Extração:</strong> teste DC 13 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> muito raro em águas antigas</p><p><strong>Região:</strong> Lago Escuro</p><p><strong>Afinidade:</strong> psíquico/água</p>"
+    },
+    "price": {
+      "value": 15
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 3,
+      "region": "Lago Escuro",
+      "affinity": "psíquico/água"
+    }
+  },
+  "folder": null,
+  "sort": 26000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

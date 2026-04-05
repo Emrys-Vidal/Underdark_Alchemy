@@ -1,0 +1,33 @@
+{
+  "_id": "cinzaderitua0018",
+  "name": "Cinza de Ritual Drow",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/arcane/cinza-de-ritual-drow.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Cinza de Ritual Drow</strong> (Incomum).</p><p>Cinza fina misturada com resinas e sangue seco.</p><p><strong>Uso bruto:</strong> Não comestível.</p><p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p><p><strong>Efeito alquímico:</strong> Reforça receitas ligadas a darkness, web e venenos.</p><p><strong>Extração:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> incomum em altares e fogareiros</p><p><strong>Região:</strong> Velkynvelve</p><p><strong>Afinidade:</strong> sombra/veneno</p>"
+    },
+    "price": {
+      "value": 10
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 2,
+      "region": "Velkynvelve",
+      "affinity": "sombra/veneno"
+    }
+  },
+  "folder": null,
+  "sort": 18000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

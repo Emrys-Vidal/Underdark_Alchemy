@@ -1,0 +1,37 @@
+{
+  "_id": "paralisanted0008",
+  "name": "Paralisante de Caça",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Paralisante de Caça</strong> (Incomum).</p><p><strong>Ingredientes:</strong> Muco de Carrion Crawler, Cinza de Ritual Drow</p><p><strong>Resultado:</strong> 1 dose de toxina</p><p><strong>Efeito:</strong> No próximo hit, o alvo faz Constitution saving throw DC 12 ou speed 0 até o fim do próximo turno.</p><p><strong>Crafting:</strong> teste DC 13 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p><p><strong>Notas:</strong> Dose instável e curta.</p>"
+    },
+    "price": {
+      "value": 30
+    },
+    "weight": 0.1
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronRecipe": true,
+      "tier": 2,
+      "region": "Rotas de Seda",
+      "ingredients": [
+        "Muco de Carrion Crawler",
+        "Cinza de Ritual Drow"
+      ],
+      "result": "1 dose de toxina"
+    }
+  },
+  "folder": null,
+  "sort": 8000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

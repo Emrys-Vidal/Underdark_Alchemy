@@ -1,0 +1,33 @@
+{
+  "_id": "besouromycon0033",
+  "name": "Besouro Myconid",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/insects/besouro-myconid.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Besouro Myconid</strong> (Muito Raro).</p><p>Besouro coberto por filamentos fúngicos conscientes.</p><p><strong>Uso bruto:</strong> Perigoso.</p><p><strong>Efeito bruto:</strong> Cru: teste DC 14 Constitution saving throw ou poisoned e hallucinatory spores leves.</p><p><strong>Efeito alquímico:</strong> Mistura-se bem com micélios para receitas vivas.</p><p><strong>Extração:</strong> teste DC 14 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> muito raro em colônias alteradas</p><p><strong>Região:</strong> Bosque Nunca Claro</p><p><strong>Afinidade:</strong> fúngico/veneno</p>"
+    },
+    "price": {
+      "value": 20
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 4,
+      "region": "Bosque Nunca Claro",
+      "affinity": "fúngico/veneno"
+    }
+  },
+  "folder": null,
+  "sort": 33000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "axolotesombr0025",
+  "name": "Axolote Sombrio",
+  "type": "consumable",
+  "img": "modules/underdark-alchemy/assets/amphibians/axolote-sombrio.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Axolote Sombrio</strong> (Raro).</p><p>Anfíbio negro de brânquias prateadas.</p><p><strong>Uso bruto:</strong> Pode ser cozido.</p><p><strong>Efeito bruto:</strong> Cozido: 1 ração e 1d4 temporary hit points contra cold por 1 hour.</p><p><strong>Efeito alquímico:</strong> Brânquias entram em poções de adaptação à água.</p><p><strong>Extração:</strong> teste DC 13 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> raro em lagos frios</p><p><strong>Região:</strong> Fendas Úmidas</p><p><strong>Afinidade:</strong> água/frio</p>"
+    },
+    "price": {
+      "value": 15
+    },
+    "weight": 0.5
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 3,
+      "region": "Fendas Úmidas",
+      "affinity": "água/frio"
+    }
+  },
+  "folder": null,
+  "sort": 25000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

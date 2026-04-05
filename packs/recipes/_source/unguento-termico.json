@@ -1,0 +1,37 @@
+{
+  "_id": "unguentoterm0007",
+  "name": "Unguento Térmico",
+  "type": "loot",
+  "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Unguento Térmico</strong> (Incomum).</p><p><strong>Ingredientes:</strong> Salamandra das Cavernas, Escaravelho Abissal</p><p><strong>Resultado:</strong> Pote de unguento</p><p><strong>Efeito:</strong> Resistência a environmental heat por 8 hours.</p><p><strong>Crafting:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p><p><strong>Notas:</strong> Não concede resistência total a fogo mágico.</p>"
+    },
+    "price": {
+      "value": 30
+    },
+    "weight": 0.1
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronRecipe": true,
+      "tier": 2,
+      "region": "Cavernas Vulcânicas",
+      "ingredients": [
+        "Salamandra das Cavernas",
+        "Escaravelho Abissal"
+      ],
+      "result": "Pote de unguento"
+    }
+  },
+  "folder": null,
+  "sort": 7000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

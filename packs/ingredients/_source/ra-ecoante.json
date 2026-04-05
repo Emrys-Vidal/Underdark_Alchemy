@@ -1,0 +1,33 @@
+{
+  "_id": "raecoante0016",
+  "name": "Rã Ecoante",
+  "type": "consumable",
+  "img": "modules/underdark-alchemy/assets/amphibians/ra-ecoante.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Rã Ecoante</strong> (Incomum).</p><p>Rã de garganta enorme cujo coaxar retorna atrasado.</p><p><strong>Uso bruto:</strong> Pode ser assada.</p><p><strong>Efeito bruto:</strong> Assada: 1 ração e vantagem no próximo Wisdom (Perception) baseado em hearing.</p><p><strong>Efeito alquímico:</strong> Glândulas são úteis em ecos localizadores.</p><p><strong>Extração:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> incomum em margens com teto alto</p><p><strong>Região:</strong> Lago Escuro</p><p><strong>Afinidade:</strong> som</p>"
+    },
+    "price": {
+      "value": 10
+    },
+    "weight": 0.5
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 2,
+      "region": "Lago Escuro",
+      "affinity": "som"
+    }
+  },
+  "folder": null,
+  "sort": 16000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

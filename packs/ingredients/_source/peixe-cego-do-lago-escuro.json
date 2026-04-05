@@ -1,0 +1,33 @@
+{
+  "_id": "peixecegodol0005",
+  "name": "Peixe-Cego do Lago Escuro",
+  "type": "consumable",
+  "img": "modules/underdark-alchemy/assets/amphibians/peixe-cego-do-lago-escuro.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Peixe-Cego do Lago Escuro</strong> (Comum).</p><p>Peixe esbranquiçado de carne firme e olhos atrofiados.</p><p><strong>Uso bruto:</strong> Pode ser comido cru ou cozido.</p><p><strong>Efeito bruto:</strong> Cru: 1/2 ração. Cozido: 1 ração completa.</p><p><strong>Efeito alquímico:</strong> Óleo e olhos servem para receitas aquáticas.</p><p><strong>Extração:</strong> teste DC 11 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> comum em margens e poços</p><p><strong>Região:</strong> Lago Escuro</p><p><strong>Afinidade:</strong> água</p>"
+    },
+    "price": {
+      "value": 5
+    },
+    "weight": 0.5
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 1,
+      "region": "Lago Escuro",
+      "affinity": "água"
+    }
+  },
+  "folder": null,
+  "sort": 5000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "esporodeviol0012",
+  "name": "Esporo de Violet Fungus",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/fungi/esporo-de-violet-fungus.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Esporo de Violet Fungus</strong> (Incomum).</p><p>Esporos colhidos com extremo cuidado.</p><p><strong>Uso bruto:</strong> Perigoso sem preparo.</p><p><strong>Efeito bruto:</strong> Cru: teste DC 12 Constitution saving throw ou 1 poison damage e poisoned até o fim do próximo turno.</p><p><strong>Efeito alquímico:</strong> Serve para venenos e bombas de esporo.</p><p><strong>Extração:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> incomum em colônias agressivas</p><p><strong>Região:</strong> Bosque Nunca Claro</p><p><strong>Afinidade:</strong> veneno/necrose</p>"
+    },
+    "price": {
+      "value": 10
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 2,
+      "region": "Bosque Nunca Claro",
+      "affinity": "veneno/necrose"
+    }
+  },
+  "folder": null,
+  "sort": 12000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

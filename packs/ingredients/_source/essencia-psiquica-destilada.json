@@ -1,0 +1,33 @@
+{
+  "_id": "essenciapsiq0048",
+  "name": "Essência Psíquica Destilada",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/arcane/essencia-psiquica-destilada.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Essência Psíquica Destilada</strong> (Aberrante).</p><p>Frasco minúsculo de vapor lilás contido por runas.</p><p><strong>Uso bruto:</strong> Não comestível.</p><p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p><p><strong>Efeito alquímico:</strong> Componente de receitas de clarity, mental invasion e warding.</p><p><strong>Extração:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> extremamente raro; obtida por ritual</p><p><strong>Região:</strong> Lago Escuro</p><p><strong>Afinidade:</strong> psíquico/arcano</p>"
+    },
+    "price": {
+      "value": 25
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 5,
+      "region": "Lago Escuro",
+      "affinity": "psíquico/arcano"
+    }
+  },
+  "folder": null,
+  "sort": 48000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

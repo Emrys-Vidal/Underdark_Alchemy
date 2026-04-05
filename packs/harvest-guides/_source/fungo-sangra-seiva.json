@@ -1,0 +1,26 @@
+{
+  "_id": "coletafungos0032",
+  "name": "Coleta - Fungo Sangra-Seiva",
+  "pages": [
+    {
+      "_id": "pagefungosan0032",
+      "name": "Guia de Coleta",
+      "type": "text",
+      "text": {
+        "content": "<h2>Fungo Sangra-Seiva</h2><p><strong>Região:</strong> Cavernas Vulcânicas</p><p><strong>Harvest Check:</strong> DC 14 Wisdom (Nature) ou Survival</p><p><strong>Sucesso:</strong> 1 unidade</p><p><strong>Grande sucesso:</strong> 1d2 unidades</p><p><strong>Falha:</strong> ingrediente danificado ou perdido</p><p><strong>Chance de encontro:</strong> muito raro perto de fumarolas</p>",
+        "format": 1
+      },
+      "sort": 1000
+    }
+  ],
+  "folder": null,
+  "sort": 32000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

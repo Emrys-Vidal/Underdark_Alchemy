@@ -1,0 +1,33 @@
+{
+  "_id": "olhodehookho0037",
+  "name": "Olho de Hook Horror",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/monsters/olho-de-hook-horror.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Olho de Hook Horror</strong> (Muito Raro).</p><p>Olho opaco adaptado à percepção subterrânea.</p><p><strong>Uso bruto:</strong> Não comestível.</p><p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p><p><strong>Efeito alquímico:</strong> Seco e moído, melhora poções de sense vibration e caça no escuro.</p><p><strong>Extração:</strong> teste DC 14 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> muito raro após abatimento limpo</p><p><strong>Região:</strong> Túneis Profundos</p><p><strong>Afinidade:</strong> sentidos</p>"
+    },
+    "price": {
+      "value": 20
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 4,
+      "region": "Túneis Profundos",
+      "affinity": "sentidos"
+    }
+  },
+  "folder": null,
+  "sort": 37000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

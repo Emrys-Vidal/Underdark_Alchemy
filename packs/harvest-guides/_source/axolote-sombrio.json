@@ -1,0 +1,26 @@
+{
+  "_id": "coletaaxolot0025",
+  "name": "Coleta - Axolote Sombrio",
+  "pages": [
+    {
+      "_id": "pageaxolotes0025",
+      "name": "Guia de Coleta",
+      "type": "text",
+      "text": {
+        "content": "<h2>Axolote Sombrio</h2><p><strong>Região:</strong> Fendas Úmidas</p><p><strong>Harvest Check:</strong> DC 13 Wisdom (Nature) ou Survival</p><p><strong>Sucesso:</strong> 1 unidade</p><p><strong>Grande sucesso:</strong> 1d2 unidades</p><p><strong>Falha:</strong> ingrediente danificado ou perdido</p><p><strong>Chance de encontro:</strong> raro em lagos frios</p>",
+        "format": 1
+      },
+      "sort": 1000
+    }
+  ],
+  "folder": null,
+  "sort": 25000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

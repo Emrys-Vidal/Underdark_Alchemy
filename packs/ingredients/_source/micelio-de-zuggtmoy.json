@@ -1,0 +1,33 @@
+{
+  "_id": "miceliodezug0022",
+  "name": "Micélio de Zuggtmoy",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/fungi/micelio-de-zuggtmoy.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Micélio de Zuggtmoy</strong> (Raro).</p><p>Filamentos pálidos que parecem respirar.</p><p><strong>Uso bruto:</strong> Proibido sem preparo.</p><p><strong>Efeito bruto:</strong> Cru: teste DC 13 Wisdom saving throw ou 1 psychic damage e frightened até o fim do próximo turno.</p><p><strong>Efeito alquímico:</strong> Usado em receitas corruptivas e sonhos fúngicos.</p><p><strong>Extração:</strong> teste DC 13 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> raro em áreas corrompidas</p><p><strong>Região:</strong> Bosque Nunca Claro</p><p><strong>Afinidade:</strong> fúngico/psíquico</p>"
+    },
+    "price": {
+      "value": 15
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 3,
+      "region": "Bosque Nunca Claro",
+      "affinity": "fúngico/psíquico"
+    }
+  },
+  "folder": null,
+  "sort": 22000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

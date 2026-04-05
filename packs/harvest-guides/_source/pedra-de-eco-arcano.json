@@ -1,0 +1,26 @@
+{
+  "_id": "coletapedrad0028",
+  "name": "Coleta - Pedra de Eco Arcano",
+  "pages": [
+    {
+      "_id": "pagepedradee0028",
+      "name": "Guia de Coleta",
+      "type": "text",
+      "text": {
+        "content": "<h2>Pedra de Eco Arcano</h2><p><strong>Região:</strong> Gracklstugh</p><p><strong>Harvest Check:</strong> DC 13 Wisdom (Nature) ou Survival</p><p><strong>Sucesso:</strong> 1 unidade</p><p><strong>Grande sucesso:</strong> 1d2 unidades</p><p><strong>Falha:</strong> ingrediente danificado ou perdido</p><p><strong>Chance de encontro:</strong> raro em mercados e ruínas</p>",
+        "format": 1
+      },
+      "sort": 1000
+    }
+  ],
+  "folder": null,
+  "sort": 28000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

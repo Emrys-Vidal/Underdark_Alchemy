@@ -1,0 +1,33 @@
+{
+  "_id": "peledecaveli0020",
+  "name": "Pele de Cave Lizard",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/monsters/pele-de-cave-lizard.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Pele de Cave Lizard</strong> (Incomum).</p><p>Tira seca de pele flexível e aderente.</p><p><strong>Uso bruto:</strong> Não comestível.</p><p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p><p><strong>Efeito alquímico:</strong> Boa para óleos de climb e misturas de mobilidade.</p><p><strong>Extração:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> incomum perto de ninhos</p><p><strong>Região:</strong> Fendas Úmidas</p><p><strong>Afinidade:</strong> agilidade</p>"
+    },
+    "price": {
+      "value": 10
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 2,
+      "region": "Fendas Úmidas",
+      "affinity": "agilidade"
+    }
+  },
+  "folder": null,
+  "sort": 20000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

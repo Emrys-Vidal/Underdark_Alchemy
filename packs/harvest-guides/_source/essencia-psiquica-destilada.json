@@ -1,0 +1,26 @@
+{
+  "_id": "coletaessenc0048",
+  "name": "Coleta - Essência Psíquica Destilada",
+  "pages": [
+    {
+      "_id": "pageessencia0048",
+      "name": "Guia de Coleta",
+      "type": "text",
+      "text": {
+        "content": "<h2>Essência Psíquica Destilada</h2><p><strong>Região:</strong> Lago Escuro</p><p><strong>Harvest Check:</strong> DC 15 Wisdom (Nature) ou Survival</p><p><strong>Sucesso:</strong> 1 unidade</p><p><strong>Grande sucesso:</strong> 1d2 unidades</p><p><strong>Falha:</strong> ingrediente danificado ou perdido</p><p><strong>Chance de encontro:</strong> extremamente raro; obtida por ritual</p>",
+        "format": 1
+      },
+      "sort": 1000
+    }
+  ],
+  "folder": null,
+  "sort": 48000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

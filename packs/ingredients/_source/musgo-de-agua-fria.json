@@ -1,0 +1,33 @@
+{
+  "_id": "musgodeaguaf0009",
+  "name": "Musgo de Água Fria",
+  "type": "consumable",
+  "img": "modules/underdark-alchemy/assets/fungi/musgo-de-agua-fria.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Musgo de Água Fria</strong> (Comum).</p><p>Musgo espesso que armazena água gelada.</p><p><strong>Uso bruto:</strong> Pode ser mastigado.</p><p><strong>Efeito bruto:</strong> Conta como 1/2 ração e reduz sede por 1 hour.</p><p><strong>Efeito alquímico:</strong> Base de compressas e poções aquáticas.</p><p><strong>Extração:</strong> teste DC 11 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> comum em rochas molhadas</p><p><strong>Região:</strong> Lago Escuro</p><p><strong>Afinidade:</strong> água/frio</p>"
+    },
+    "price": {
+      "value": 5
+    },
+    "weight": 0.5
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 1,
+      "region": "Lago Escuro",
+      "affinity": "água/frio"
+    }
+  },
+  "folder": null,
+  "sort": 9000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

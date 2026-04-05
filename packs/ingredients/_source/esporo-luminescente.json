@@ -1,0 +1,33 @@
+{
+  "_id": "esporolumine0001",
+  "name": "Esporo Luminescente",
+  "type": "consumable",
+  "img": "modules/underdark-alchemy/assets/fungi/esporo-luminescente.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Esporo Luminescente</strong> (Comum).</p><p>Esporos azulados que brilham com calor corporal.</p><p><strong>Uso bruto:</strong> Pode ser mastigado ou seco.</p><p><strong>Efeito bruto:</strong> Ao ingerir, emite luz fraca em 3 m por 1 hour.</p><p><strong>Efeito alquímico:</strong> Base para poções de luz e marcação.</p><p><strong>Extração:</strong> teste DC 11 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> comum em paredes úmidas</p><p><strong>Região:</strong> Velkynvelve</p><p><strong>Afinidade:</strong> luz</p>"
+    },
+    "price": {
+      "value": 5
+    },
+    "weight": 0.5
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 1,
+      "region": "Velkynvelve",
+      "affinity": "luz"
+    }
+  },
+  "folder": null,
+  "sort": 1000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}

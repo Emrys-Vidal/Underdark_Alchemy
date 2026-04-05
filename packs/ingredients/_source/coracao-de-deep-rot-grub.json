@@ -1,0 +1,33 @@
+{
+  "_id": "coracaodedee0050",
+  "name": "Coração de Deep Rot Grub",
+  "type": "loot",
+  "img": "modules/underdark-alchemy/assets/monsters/coracao-de-deep-rot-grub.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Coração de Deep Rot Grub</strong> (Aberrante).</p><p>Nódulo pulsante retirado de um verme apodrecedor profundo.</p><p><strong>Uso bruto:</strong> Nunca comestível.</p><p><strong>Efeito bruto:</strong> Contato exige teste DC 16 Constitution saving throw ou 2 necrotic damage.</p><p><strong>Efeito alquímico:</strong> Ingrediente abjeto para necrose e decomposição rápida.</p><p><strong>Extração:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p><p><strong>Chance de encontro:</strong> extremamente raro em colônias contaminadas</p><p><strong>Região:</strong> Bosque Nunca Claro</p><p><strong>Afinidade:</strong> necrose</p>"
+    },
+    "price": {
+      "value": 25
+    },
+    "weight": 0.2
+  },
+  "flags": {
+    "shattered-codex": {
+      "cauldronIngredient": true,
+      "tier": 5,
+      "region": "Bosque Nunca Claro",
+      "affinity": "necrose"
+    }
+  },
+  "folder": null,
+  "sort": 50000,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.9",
+    "coreVersion": "13.346"
+  }
+}
