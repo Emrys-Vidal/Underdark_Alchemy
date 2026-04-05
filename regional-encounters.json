@@ -1,0 +1,31 @@
+{
+  "Velkynvelve": [
+    "1-4: Esporo Luminescente",
+    "5-7: Mariposa das Cavernas",
+    "8-10: Ferrão de Aranha Menor",
+    "11-13: Cinza de Ritual Drow",
+    "14-16: Glândula de Veneno de Aranha Gigante",
+    "17-18: Tinta de Web Escura (encontrada pronta)",
+    "19: Cinza de Círculo Quebrado",
+    "20: ingrediente raro à escolha do DM"
+  ],
+  "Lago Escuro": [
+    "1-5: Peixe-Cego do Lago Escuro",
+    "6-8: Musgo de Água Fria",
+    "9-11: Rã Ecoante",
+    "12-14: Sapo Lanternado",
+    "15-16: Axolote Sombrio",
+    "17-18: Girino Aboleth",
+    "19: Essência Psíquica Destilada",
+    "20: encontro anômalo ligado ao Darklake"
+  ],
+  "Bosque Nunca Claro": [
+    "1-4: Fungo Véu Cinza",
+    "5-7: Esporo de Violet Fungus",
+    "8-10: Mosca de Putrefação",
+    "11-13: Micélio de Zuggtmoy",
+    "14-16: Besouro Myconid",
+    "17-18: Esporo da Rainha de Fungos",
+    "19-20: evento fúngico hostil"
+  ]
+}

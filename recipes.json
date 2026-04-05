@@ -1,0 +1,483 @@
+[
+  {
+    "name": "Tônico de Luz Fria",
+    "type": "recipe",
+    "tier": 1,
+    "raridade": "Comum",
+    "region": "Velkynvelve",
+    "ingredients": [
+      "Esporo Luminescente",
+      "Musgo de Água Fria"
+    ],
+    "result": "Frasco de luz fria",
+    "system": {
+      "description": {
+        "value": "<p><strong>Tônico de Luz Fria</strong> (Comum).</p>\n<p><strong>Ingredientes:</strong> Esporo Luminescente, Musgo de Água Fria</p>\n<p><strong>Resultado:</strong> Frasco de luz fria</p>\n<p><strong>Efeito:</strong> O alvo emite bright light em 3 m e dim light em 3 m adicionais por 1 hour.</p>\n<p><strong>Crafting:</strong> teste DC 11 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p>\n<p><strong>Notas:</strong> Mistura estável e barata para exploração.</p>"
+      }
+    },
+    "flags": {
+      "shattered-codex": {
+        "cauldronRecipe": true,
+        "tier": 1,
+        "region": "Velkynvelve"
+      }
+    }
+  },
+  {
+    "name": "Pó de Passo Mudo",
+    "type": "recipe",
+    "tier": 1,
+    "raridade": "Comum",
+    "region": "Velkynvelve",
+    "ingredients": [
+      "Mariposa das Cavernas",
+      "Quitina de Darkmantle"
+    ],
+    "result": "Saquinho de pó cinzento",
+    "system": {
+      "description": {
+        "value": "<p><strong>Pó de Passo Mudo</strong> (Comum).</p>\n<p><strong>Ingredientes:</strong> Mariposa das Cavernas, Quitina de Darkmantle</p>\n<p><strong>Resultado:</strong> Saquinho de pó cinzento</p>\n<p><strong>Efeito:</strong> O usuário ganha vantagem no próximo Dexterity (Stealth) feito em darkness ou stone terrain.</p>\n<p><strong>Crafting:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p>\n<p><strong>Notas:</strong> Pode ser lançado sobre botas ou roupa.</p>"
+      }
+    },
+    "flags": {
+      "shattered-codex": {
+        "cauldronRecipe": true,
+        "tier": 1,
+        "region": "Velkynvelve"
+      }
+    }
+  },
+  {
+    "name": "Caldo do Lago Escuro",
+    "type": "recipe",
+    "tier": 1,
+    "raridade": "Comum",
+    "region": "Lago Escuro",
+    "ingredients": [
+      "Peixe-Cego do Lago Escuro",
+      "Musgo de Água Fria"
+    ],
+    "result": "Ração fortificada",
+    "system": {
+      "description": {
+        "value": "<p><strong>Caldo do Lago Escuro</strong> (Comum).</p>\n<p><strong>Ingredientes:</strong> Peixe-Cego do Lago Escuro, Musgo de Água Fria</p>\n<p><strong>Resultado:</strong> Ração fortificada</p>\n<p><strong>Efeito:</strong> Conta como 2 rações leves e dá vantagem no próximo Constitution saving throw contra exaustão por marcha.</p>\n<p><strong>Crafting:</strong> teste DC 10 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p>\n<p><strong>Notas:</strong> Receita regional simples.</p>"
+      }
+    },
+    "flags": {
+      "shattered-codex": {
+        "cauldronRecipe": true,
+        "tier": 1,
+        "region": "Lago Escuro"
+      }
+    }
+  },
+  {
+    "name": "Verniz Corrosivo Fraco",
+    "type": "recipe",
+    "tier": 1,
+    "raridade": "Comum",
+    "region": "Rotas de Seda",
+    "ingredients": [
+      "Besouro Ácido Menor",
+      "Ferrão de Aranha Menor"
+    ],
+    "result": "1 aplicação de verniz",
+    "system": {
+      "description": {
+        "value": "<p><strong>Verniz Corrosivo Fraco</strong> (Comum).</p>\n<p><strong>Ingredientes:</strong> Besouro Ácido Menor, Ferrão de Aranha Menor</p>\n<p><strong>Resultado:</strong> 1 aplicação de verniz</p>\n<p><strong>Efeito:</strong> Na próxima vez que uma arma atingir, causa +1 acid damage.</p>\n<p><strong>Crafting:</strong> teste DC 11 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p>\n<p><strong>Notas:</strong> Perde potência após 1 hit ou 1 hour.</p>"
+      }
+    },
+    "flags": {
+      "shattered-codex": {
+        "cauldronRecipe": true,
+        "tier": 1,
+        "region": "Rotas de Seda"
+      }
+    }
+  },
+  {
+    "name": "Elixir da Pedra Resistente",
+    "type": "recipe",
+    "tier": 2,
+    "raridade": "Incomum",
+    "region": "Gracklstugh",
+    "ingredients": [
+      "Fungo Véu Cinza",
+      "Besouro de Sal",
+      "Pó de Obsidiana Ritual"
+    ],
+    "result": "Frasco mineral",
+    "system": {
+      "description": {
+        "value": "<p><strong>Elixir da Pedra Resistente</strong> (Incomum).</p>\n<p><strong>Ingredientes:</strong> Fungo Véu Cinza, Besouro de Sal, Pó de Obsidiana Ritual</p>\n<p><strong>Resultado:</strong> Frasco mineral</p>\n<p><strong>Efeito:</strong> O alvo ganha +1 AC contra o próximo hit recebido antes de 1 hour.</p>\n<p><strong>Crafting:</strong> teste DC 13 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p>\n<p><strong>Notas:</strong> Popular entre mineradores e guardas.</p>"
+      }
+    },
+    "flags": {
+      "shattered-codex": {
+        "cauldronRecipe": true,
+        "tier": 2,
+        "region": "Gracklstugh"
+      }
+    }
+  },
+  {
+    "name": "Essência de Audição Distante",
+    "type": "recipe",
+    "tier": 2,
+    "raridade": "Incomum",
+    "region": "Lago Escuro",
+    "ingredients": [
+      "Rã Ecoante",
+      "Cogumelo de Eco"
+    ],
+    "result": "Frasco azul-claro",
+    "system": {
+      "description": {
+        "value": "<p><strong>Essência de Audição Distante</strong> (Incomum).</p>\n<p><strong>Ingredientes:</strong> Rã Ecoante, Cogumelo de Eco</p>\n<p><strong>Resultado:</strong> Frasco azul-claro</p>\n<p><strong>Efeito:</strong> Vantagem em Wisdom (Perception) baseado em hearing por 1 hour.</p>\n<p><strong>Crafting:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p>\n<p><strong>Notas:</strong> Muito útil em exploração cautelosa.</p>"
+      }
+    },
+    "flags": {
+      "shattered-codex": {
+        "cauldronRecipe": true,
+        "tier": 2,
+        "region": "Lago Escuro"
+      }
+    }
+  },
+  {
+    "name": "Unguento Térmico",
+    "type": "recipe",
+    "tier": 2,
+    "raridade": "Incomum",
+    "region": "Cavernas Vulcânicas",
+    "ingredients": [
+      "Salamandra das Cavernas",
+      "Escaravelho Abissal"
+    ],
+    "result": "Pote de unguento",
+    "system": {
+      "description": {
+        "value": "<p><strong>Unguento Térmico</strong> (Incomum).</p>\n<p><strong>Ingredientes:</strong> Salamandra das Cavernas, Escaravelho Abissal</p>\n<p><strong>Resultado:</strong> Pote de unguento</p>\n<p><strong>Efeito:</strong> Resistência a environmental heat por 8 hours.</p>\n<p><strong>Crafting:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p>\n<p><strong>Notas:</strong> Não concede resistência total a fogo mágico.</p>"
+      }
+    },
+    "flags": {
+      "shattered-codex": {
+        "cauldronRecipe": true,
+        "tier": 2,
+        "region": "Cavernas Vulcânicas"
+      }
+    }
+  },
+  {
+    "name": "Paralisante de Caça",
+    "type": "recipe",
+    "tier": 2,
+    "raridade": "Incomum",
+    "region": "Rotas de Seda",
+    "ingredients": [
+      "Muco de Carrion Crawler",
+      "Cinza de Ritual Drow"
+    ],
+    "result": "1 dose de toxina",
+    "system": {
+      "description": {
+        "value": "<p><strong>Paralisante de Caça</strong> (Incomum).</p>\n<p><strong>Ingredientes:</strong> Muco de Carrion Crawler, Cinza de Ritual Drow</p>\n<p><strong>Resultado:</strong> 1 dose de toxina</p>\n<p><strong>Efeito:</strong> No próximo hit, o alvo faz Constitution saving throw DC 12 ou speed 0 até o fim do próximo turno.</p>\n<p><strong>Crafting:</strong> teste DC 13 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p>\n<p><strong>Notas:</strong> Dose instável e curta.</p>"
+      }
+    },
+    "flags": {
+      "shattered-codex": {
+        "cauldronRecipe": true,
+        "tier": 2,
+        "region": "Rotas de Seda"
+      }
+    }
+  },
+  {
+    "name": "Tinta de Web Escura",
+    "type": "recipe",
+    "tier": 2,
+    "raridade": "Incomum",
+    "region": "Velkynvelve",
+    "ingredients": [
+      "Cinza de Ritual Drow",
+      "Ferrão de Aranha Menor"
+    ],
+    "result": "Frasco de tinta ritual",
+    "system": {
+      "description": {
+        "value": "<p><strong>Tinta de Web Escura</strong> (Incomum).</p>\n<p><strong>Ingredientes:</strong> Cinza de Ritual Drow, Ferrão de Aranha Menor</p>\n<p><strong>Resultado:</strong> Frasco de tinta ritual</p>\n<p><strong>Efeito:</strong> Permite marcar superfícies com runas drow visíveis apenas sob darkness ou luz fraca.</p>\n<p><strong>Crafting:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p>\n<p><strong>Notas:</strong> Muito usada por patrulhas.</p>"
+      }
+    },
+    "flags": {
+      "shattered-codex": {
+        "cauldronRecipe": true,
+        "tier": 2,
+        "region": "Velkynvelve"
+      }
+    }
+  },
+  {
+    "name": "Filtro de Foco Mental",
+    "type": "recipe",
+    "tier": 2,
+    "raridade": "Incomum",
+    "region": "Túneis Profundos",
+    "ingredients": [
+      "Larva Psíquica",
+      "Cogumelo de Eco"
+    ],
+    "result": "Frasco lilás",
+    "system": {
+      "description": {
+        "value": "<p><strong>Filtro de Foco Mental</strong> (Incomum).</p>\n<p><strong>Ingredientes:</strong> Larva Psíquica, Cogumelo de Eco</p>\n<p><strong>Resultado:</strong> Frasco lilás</p>\n<p><strong>Efeito:</strong> Vantagem no próximo Intelligence (Arcana) ou Wisdom (Insight).</p>\n<p><strong>Crafting:</strong> teste DC 13 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p>\n<p><strong>Notas:</strong> O gosto é péssimo.</p>"
+      }
+    },
+    "flags": {
+      "shattered-codex": {
+        "cauldronRecipe": true,
+        "tier": 2,
+        "region": "Túneis Profundos"
+      }
+    }
+  },
+  {
+    "name": "Pó de Silêncio Quebrado",
+    "type": "recipe",
+    "tier": 3,
+    "raridade": "Raro",
+    "region": "Túneis Profundos",
+    "ingredients": [
+      "Cigarra do Vazio",
+      "Pedra de Eco Arcano"
+    ],
+    "result": "Saquinho de pó negro",
+    "system": {
+      "description": {
+        "value": "<p><strong>Pó de Silêncio Quebrado</strong> (Raro).</p>\n<p><strong>Ingredientes:</strong> Cigarra do Vazio, Pedra de Eco Arcano</p>\n<p><strong>Resultado:</strong> Saquinho de pó negro</p>\n<p><strong>Efeito:</strong> Ao espalhar, reduz sons óbvios num raio de 3 m por 1 minute.</p>\n<p><strong>Crafting:</strong> teste DC 14 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p>\n<p><strong>Notas:</strong> Não cria silence mágico completo.</p>"
+      }
+    },
+    "flags": {
+      "shattered-codex": {
+        "cauldronRecipe": true,
+        "tier": 3,
+        "region": "Túneis Profundos"
+      }
+    }
+  },
+  {
+    "name": "Tônico de Água Profunda",
+    "type": "recipe",
+    "tier": 3,
+    "raridade": "Raro",
+    "region": "Lago Escuro",
+    "ingredients": [
+      "Axolote Sombrio",
+      "Girino Aboleth"
+    ],
+    "result": "Frasco escuro",
+    "system": {
+      "description": {
+        "value": "<p><strong>Tônico de Água Profunda</strong> (Raro).</p>\n<p><strong>Ingredientes:</strong> Axolote Sombrio, Girino Aboleth</p>\n<p><strong>Resultado:</strong> Frasco escuro</p>\n<p><strong>Efeito:</strong> O alvo pode respirar underwater por 10 minutes.</p>\n<p><strong>Crafting:</strong> teste DC 14 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p>\n<p><strong>Notas:</strong> Pode causar sonhos estranhos após uso.</p>"
+      }
+    },
+    "flags": {
+      "shattered-codex": {
+        "cauldronRecipe": true,
+        "tier": 3,
+        "region": "Lago Escuro"
+      }
+    }
+  },
+  {
+    "name": "Veneno de Matriarca Menor",
+    "type": "recipe",
+    "tier": 3,
+    "raridade": "Raro",
+    "region": "Velkynvelve",
+    "ingredients": [
+      "Glândula de Veneno de Aranha Gigante",
+      "Cinza de Ritual Drow"
+    ],
+    "result": "1 dose de veneno",
+    "system": {
+      "description": {
+        "value": "<p><strong>Veneno de Matriarca Menor</strong> (Raro).</p>\n<p><strong>Ingredientes:</strong> Glândula de Veneno de Aranha Gigante, Cinza de Ritual Drow</p>\n<p><strong>Resultado:</strong> 1 dose de veneno</p>\n<p><strong>Efeito:</strong> No próximo hit, Constitution saving throw DC 13 ou poisoned por 1 minute.</p>\n<p><strong>Crafting:</strong> teste DC 14 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p>\n<p><strong>Notas:</strong> Estilo claramente drow.</p>"
+      }
+    },
+    "flags": {
+      "shattered-codex": {
+        "cauldronRecipe": true,
+        "tier": 3,
+        "region": "Velkynvelve"
+      }
+    }
+  },
+  {
+    "name": "Revestimento de Pele de Pedra",
+    "type": "recipe",
+    "tier": 3,
+    "raridade": "Raro",
+    "region": "Gracklstugh",
+    "ingredients": [
+      "Fungo Dente-de-Pedra",
+      "Sal Abissal Purificado"
+    ],
+    "result": "Pasta mineral",
+    "system": {
+      "description": {
+        "value": "<p><strong>Revestimento de Pele de Pedra</strong> (Raro).</p>\n<p><strong>Ingredientes:</strong> Fungo Dente-de-Pedra, Sal Abissal Purificado</p>\n<p><strong>Resultado:</strong> Pasta mineral</p>\n<p><strong>Efeito:</strong> O alvo ganha resistance a slashing não-mágico até o fim do próximo turno.</p>\n<p><strong>Crafting:</strong> teste DC 14 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p>\n<p><strong>Notas:</strong> Uso de emergência.</p>"
+      }
+    },
+    "flags": {
+      "shattered-codex": {
+        "cauldronRecipe": true,
+        "tier": 3,
+        "region": "Gracklstugh"
+      }
+    }
+  },
+  {
+    "name": "Soro de Insight Corrompido",
+    "type": "recipe",
+    "tier": 3,
+    "raridade": "Raro",
+    "region": "Bosque Nunca Claro",
+    "ingredients": [
+      "Micélio de Zuggtmoy",
+      "Larva Psíquica"
+    ],
+    "result": "Frasco opalescente",
+    "system": {
+      "description": {
+        "value": "<p><strong>Soro de Insight Corrompido</strong> (Raro).</p>\n<p><strong>Ingredientes:</strong> Micélio de Zuggtmoy, Larva Psíquica</p>\n<p><strong>Resultado:</strong> Frasco opalescente</p>\n<p><strong>Efeito:</strong> Vantagem em um teste de Wisdom (Insight), mas depois Wisdom saving throw DC 12 ou frightened até o fim do próximo turno.</p>\n<p><strong>Crafting:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p>\n<p><strong>Notas:</strong> Poderoso e suspeito.</p>"
+      }
+    },
+    "flags": {
+      "shattered-codex": {
+        "cauldronRecipe": true,
+        "tier": 3,
+        "region": "Bosque Nunca Claro"
+      }
+    }
+  },
+  {
+    "name": "Poção da Visão do Sapo",
+    "type": "recipe",
+    "tier": 4,
+    "raridade": "Muito Raro",
+    "region": "Lago Escuro",
+    "ingredients": [
+      "Sapo Lanternado",
+      "Fungo Oráculo"
+    ],
+    "result": "Poção dourada",
+    "system": {
+      "description": {
+        "value": "<p><strong>Poção da Visão do Sapo</strong> (Muito Raro).</p>\n<p><strong>Ingredientes:</strong> Sapo Lanternado, Fungo Oráculo</p>\n<p><strong>Resultado:</strong> Poção dourada</p>\n<p><strong>Efeito:</strong> Garante darkvision 18 m por 8 hours; se já possuir, soma 9 m.</p>\n<p><strong>Crafting:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p>\n<p><strong>Notas:</strong> Mistura valiosa para batedores.</p>"
+      }
+    },
+    "flags": {
+      "shattered-codex": {
+        "cauldronRecipe": true,
+        "tier": 4,
+        "region": "Lago Escuro"
+      }
+    }
+  },
+  {
+    "name": "Óleo de Tensão de Seda",
+    "type": "recipe",
+    "tier": 4,
+    "raridade": "Muito Raro",
+    "region": "Rotas de Seda",
+    "ingredients": [
+      "Aranha-Salto Alfa",
+      "Ovo de Cave Fisher"
+    ],
+    "result": "Frasco viscoso",
+    "system": {
+      "description": {
+        "value": "<p><strong>Óleo de Tensão de Seda</strong> (Muito Raro).</p>\n<p><strong>Ingredientes:</strong> Aranha-Salto Alfa, Ovo de Cave Fisher</p>\n<p><strong>Resultado:</strong> Frasco viscoso</p>\n<p><strong>Efeito:</strong> Permite ignorar difficult terrain de teias por 1 hour e vantagem em Dexterity (Acrobatics) para equilibrar-se em cordas.</p>\n<p><strong>Crafting:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p>\n<p><strong>Notas:</strong> Muito útil em Velkynvelve.</p>"
+      }
+    },
+    "flags": {
+      "shattered-codex": {
+        "cauldronRecipe": true,
+        "tier": 4,
+        "region": "Rotas de Seda"
+      }
+    }
+  },
+  {
+    "name": "Ampola de Blink Instável",
+    "type": "recipe",
+    "tier": 4,
+    "raridade": "Muito Raro",
+    "region": "Gracklstugh",
+    "ingredients": [
+      "Fragmento de Portal Menor",
+      "Areia do Plano Etéreo"
+    ],
+    "result": "Ampola translúcida",
+    "system": {
+      "description": {
+        "value": "<p><strong>Ampola de Blink Instável</strong> (Muito Raro).</p>\n<p><strong>Ingredientes:</strong> Fragmento de Portal Menor, Areia do Plano Etéreo</p>\n<p><strong>Resultado:</strong> Ampola translúcida</p>\n<p><strong>Efeito:</strong> Como bônus, o usuário teleporta até 3 m para espaço visível. Depois, Constitution saving throw DC 13 ou fica prone.</p>\n<p><strong>Crafting:</strong> teste DC 16 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p>\n<p><strong>Notas:</strong> Uso único e arriscado.</p>"
+      }
+    },
+    "flags": {
+      "shattered-codex": {
+        "cauldronRecipe": true,
+        "tier": 4,
+        "region": "Gracklstugh"
+      }
+    }
+  },
+  {
+    "name": "Bálsamo da Rainha Fúngica",
+    "type": "recipe",
+    "tier": 5,
+    "raridade": "Aberrante",
+    "region": "Bosque Nunca Claro",
+    "ingredients": [
+      "Esporo da Rainha de Fungos",
+      "Micélio de Sonho Cinza"
+    ],
+    "result": "Pasta aberrante",
+    "system": {
+      "description": {
+        "value": "<p><strong>Bálsamo da Rainha Fúngica</strong> (Aberrante).</p>\n<p><strong>Ingredientes:</strong> Esporo da Rainha de Fungos, Micélio de Sonho Cinza</p>\n<p><strong>Resultado:</strong> Pasta aberrante</p>\n<p><strong>Efeito:</strong> Pode acelerar crescimento fúngico ou, aplicado a cadáver fresco, gerar terreno contaminado num raio de 3 m por 1 hour.</p>\n<p><strong>Crafting:</strong> teste DC 16 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p>\n<p><strong>Notas:</strong> Claramente perigoso e anti-natural.</p>"
+      }
+    },
+    "flags": {
+      "shattered-codex": {
+        "cauldronRecipe": true,
+        "tier": 5,
+        "region": "Bosque Nunca Claro"
+      }
+    }
+  },
+  {
+    "name": "Elixir da Mente Cercada",
+    "type": "recipe",
+    "tier": 5,
+    "raridade": "Aberrante",
+    "region": "Túneis Profundos",
+    "ingredients": [
+      "Coração de Colmeia Psíquica",
+      "Essência Psíquica Destilada"
+    ],
+    "result": "Frasco violeta",
+    "system": {
+      "description": {
+        "value": "<p><strong>Elixir da Mente Cercada</strong> (Aberrante).</p>\n<p><strong>Ingredientes:</strong> Coração de Colmeia Psíquica, Essência Psíquica Destilada</p>\n<p><strong>Resultado:</strong> Frasco violeta</p>\n<p><strong>Efeito:</strong> O alvo ganha resistência a psychic damage por 1 hour e vantagem no próximo Wisdom saving throw contra charm ou fear.</p>\n<p><strong>Crafting:</strong> teste DC 16 Intelligence (Arcana), Wisdom (Nature) ou ferramenta apropriada.</p>\n<p><strong>Notas:</strong> Receita rara e valiosa.</p>"
+      }
+    },
+    "flags": {
+      "shattered-codex": {
+        "cauldronRecipe": true,
+        "tier": 5,
+        "region": "Túneis Profundos"
+      }
+    }
+  }
+]

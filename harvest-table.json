@@ -1,0 +1,402 @@
+[
+  {
+    "ingredient": "Esporo Luminescente",
+    "region": "Velkynvelve",
+    "harvestCheck": "DC 11 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Cogumelo de Eco",
+    "region": "Túneis Profundos",
+    "harvestCheck": "DC 11 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Besouro Ácido Menor",
+    "region": "Rotas de Seda",
+    "harvestCheck": "DC 11 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Mariposa das Cavernas",
+    "region": "Velkynvelve",
+    "harvestCheck": "DC 11 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Peixe-Cego do Lago Escuro",
+    "region": "Lago Escuro",
+    "harvestCheck": "DC 11 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Sapo de Rocha Jovem",
+    "region": "Fendas Úmidas",
+    "harvestCheck": "DC 11 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Quitina de Darkmantle",
+    "region": "Túneis Profundos",
+    "harvestCheck": "DC 11 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Pó de Obsidiana Ritual",
+    "region": "Gracklstugh",
+    "harvestCheck": "DC 11 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Musgo de Água Fria",
+    "region": "Lago Escuro",
+    "harvestCheck": "DC 11 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Ferrão de Aranha Menor",
+    "region": "Velkynvelve",
+    "harvestCheck": "DC 11 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Fungo Véu Cinza",
+    "region": "Bosque Nunca Claro",
+    "harvestCheck": "DC 12 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Esporo de Violet Fungus",
+    "region": "Bosque Nunca Claro",
+    "harvestCheck": "DC 12 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Escaravelho Abissal",
+    "region": "Túneis Profundos",
+    "harvestCheck": "DC 12 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Larva Psíquica",
+    "region": "Túneis Profundos",
+    "harvestCheck": "DC 12 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Salamandra das Cavernas",
+    "region": "Cavernas Vulcânicas",
+    "harvestCheck": "DC 12 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Rã Ecoante",
+    "region": "Lago Escuro",
+    "harvestCheck": "DC 12 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Muco de Carrion Crawler",
+    "region": "Rotas de Seda",
+    "harvestCheck": "DC 12 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Cinza de Ritual Drow",
+    "region": "Velkynvelve",
+    "harvestCheck": "DC 12 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Besouro de Sal",
+    "region": "Gracklstugh",
+    "harvestCheck": "DC 12 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Pele de Cave Lizard",
+    "region": "Fendas Úmidas",
+    "harvestCheck": "DC 12 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Fungo Dente-de-Pedra",
+    "region": "Gracklstugh",
+    "harvestCheck": "DC 13 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Micélio de Zuggtmoy",
+    "region": "Bosque Nunca Claro",
+    "harvestCheck": "DC 13 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Mosca de Putrefação",
+    "region": "Bosque Nunca Claro",
+    "harvestCheck": "DC 13 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Cigarra do Vazio",
+    "region": "Túneis Profundos",
+    "harvestCheck": "DC 13 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Axolote Sombrio",
+    "region": "Fendas Úmidas",
+    "harvestCheck": "DC 13 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Girino Aboleth",
+    "region": "Lago Escuro",
+    "harvestCheck": "DC 13 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Glândula de Veneno de Aranha Gigante",
+    "region": "Velkynvelve",
+    "harvestCheck": "DC 13 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Pedra de Eco Arcano",
+    "region": "Gracklstugh",
+    "harvestCheck": "DC 13 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Olho de Darkmantle Maduro",
+    "region": "Túneis Profundos",
+    "harvestCheck": "DC 13 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Sal Abissal Purificado",
+    "region": "Gracklstugh",
+    "harvestCheck": "DC 13 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Fungo Oráculo",
+    "region": "Túneis Profundos",
+    "harvestCheck": "DC 14 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Fungo Sangra-Seiva",
+    "region": "Cavernas Vulcânicas",
+    "harvestCheck": "DC 14 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Besouro Myconid",
+    "region": "Bosque Nunca Claro",
+    "harvestCheck": "DC 14 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Aranha-Salto Alfa",
+    "region": "Rotas de Seda",
+    "harvestCheck": "DC 14 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Sapo Lanternado",
+    "region": "Lago Escuro",
+    "harvestCheck": "DC 14 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Rã de Limo",
+    "region": "Fendas Úmidas",
+    "harvestCheck": "DC 14 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Olho de Hook Horror",
+    "region": "Túneis Profundos",
+    "harvestCheck": "DC 14 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Fragmento de Portal Menor",
+    "region": "Gracklstugh",
+    "harvestCheck": "DC 14 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Ovo de Cave Fisher",
+    "region": "Rotas de Seda",
+    "harvestCheck": "DC 14 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Areia do Plano Etéreo",
+    "region": "Túneis Profundos",
+    "harvestCheck": "DC 14 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Esporo da Rainha de Fungos",
+    "region": "Bosque Nunca Claro",
+    "harvestCheck": "DC 15 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Micélio de Sonho Cinza",
+    "region": "Túneis Profundos",
+    "harvestCheck": "DC 15 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Vespa da Fenda Abissal",
+    "region": "Túneis Profundos",
+    "harvestCheck": "DC 15 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Coração de Colmeia Psíquica",
+    "region": "Túneis Profundos",
+    "harvestCheck": "DC 15 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Salamandra Cinzenta Anciã",
+    "region": "Cavernas Vulcânicas",
+    "harvestCheck": "DC 15 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Rã Profunda de Pedra-Viva",
+    "region": "Gracklstugh",
+    "harvestCheck": "DC 15 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Escama de Basilisco Jovem",
+    "region": "Túneis Profundos",
+    "harvestCheck": "DC 15 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Essência Psíquica Destilada",
+    "region": "Lago Escuro",
+    "harvestCheck": "DC 15 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Cinza de Círculo Quebrado",
+    "region": "Velkynvelve",
+    "harvestCheck": "DC 15 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  },
+  {
+    "ingredient": "Coração de Deep Rot Grub",
+    "region": "Bosque Nunca Claro",
+    "harvestCheck": "DC 15 Wisdom (Nature) ou Survival",
+    "success": "1 unidade",
+    "greatSuccess": "1d2 unidades",
+    "failure": "ingrediente danificado ou perdido"
+  }
+]

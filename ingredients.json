@@ -1,0 +1,1452 @@
+[
+  {
+    "name": "Esporo Luminescente",
+    "type": "consumable",
+    "img": "modules/underdark-alchemy/assets/fungi/esporo_luminescente.webp",
+    "tier": 1,
+    "raridade": "Comum",
+    "categoria": "fungos",
+    "regiao": "Velkynvelve",
+    "chanceDeEncontro": "comum em paredes úmidas",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 1,
+        "alchemyType": "essence",
+        "region": "Velkynvelve",
+        "affinity": "luz",
+        "source": "canon-inspired"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Esporo Luminescente</strong> (Comum).</p>\n<p>Esporos azulados que brilham com calor corporal.</p>\n<p><strong>Uso bruto:</strong> Pode ser mastigado ou seco.</p>\n<p><strong>Efeito bruto:</strong> Ao ingerir, emite luz fraca em 3 m por 1 hour.</p>\n<p><strong>Efeito alquímico:</strong> Base para poções de luz e marcação.</p>\n<p><strong>Extração:</strong> teste DC 11 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> comum em paredes úmidas</p>\n<p><strong>Região:</strong> Velkynvelve</p>\n<p><strong>Afinidade:</strong> luz</p>"
+      },
+      "weight": 0.5,
+      "price": {
+        "value": 5
+      }
+    }
+  },
+  {
+    "name": "Cogumelo de Eco",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/fungi/cogumelo_de_eco.webp",
+    "tier": 1,
+    "raridade": "Comum",
+    "categoria": "fungos",
+    "regiao": "Túneis Profundos",
+    "chanceDeEncontro": "comum em passagens estreitas",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 1,
+        "alchemyType": "stabilizer",
+        "region": "Túneis Profundos",
+        "affinity": "som",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Cogumelo de Eco</strong> (Comum).</p>\n<p>Fungo fino que vibra com sons graves.</p>\n<p><strong>Uso bruto:</strong> Precisa de preparo leve.</p>\n<p><strong>Efeito bruto:</strong> Sem preparo, vantagem no próximo Wisdom (Perception) baseado em hearing em até 10 minutes.</p>\n<p><strong>Efeito alquímico:</strong> Estabiliza elixires sonoros e de stealth.</p>\n<p><strong>Extração:</strong> teste DC 11 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> comum em passagens estreitas</p>\n<p><strong>Região:</strong> Túneis Profundos</p>\n<p><strong>Afinidade:</strong> som</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 5
+      }
+    }
+  },
+  {
+    "name": "Besouro Ácido Menor",
+    "type": "consumable",
+    "img": "modules/underdark-alchemy/assets/insects/besouro_acido_menor.webp",
+    "tier": 1,
+    "raridade": "Comum",
+    "categoria": "insetos",
+    "regiao": "Rotas de Seda",
+    "chanceDeEncontro": "incomum perto de teias velhas",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 1,
+        "alchemyType": "reagent",
+        "region": "Rotas de Seda",
+        "affinity": "ácido",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Besouro Ácido Menor</strong> (Comum).</p>\n<p>Besouro verde de casco levemente corrosivo.</p>\n<p><strong>Uso bruto:</strong> Pode ser esmagado cru.</p>\n<p><strong>Efeito bruto:</strong> Ao ingerir cru, sofre 1 acid damage, mas conta como 1/2 ração se assado.</p>\n<p><strong>Efeito alquímico:</strong> Fonte barata de reagente corrosivo.</p>\n<p><strong>Extração:</strong> teste DC 11 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> incomum perto de teias velhas</p>\n<p><strong>Região:</strong> Rotas de Seda</p>\n<p><strong>Afinidade:</strong> ácido</p>"
+      },
+      "weight": 0.5,
+      "price": {
+        "value": 5
+      }
+    }
+  },
+  {
+    "name": "Mariposa das Cavernas",
+    "type": "consumable",
+    "img": "modules/underdark-alchemy/assets/insects/mariposa_das_cavernas.webp",
+    "tier": 1,
+    "raridade": "Comum",
+    "categoria": "insetos",
+    "regiao": "Velkynvelve",
+    "chanceDeEncontro": "comum perto de fungos-lanterna",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 1,
+        "alchemyType": "essence",
+        "region": "Velkynvelve",
+        "affinity": "sombra",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Mariposa das Cavernas</strong> (Comum).</p>\n<p>Mariposa pálida que parece absorver penumbra.</p>\n<p><strong>Uso bruto:</strong> Pode ser comida seca.</p>\n<p><strong>Efeito bruto:</strong> Conta como 1/2 ração; asas secas dão vantagem no próximo Dexterity (Stealth) em darkness.</p>\n<p><strong>Efeito alquímico:</strong> Usada em pós de camuflagem.</p>\n<p><strong>Extração:</strong> teste DC 10 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> comum perto de fungos-lanterna</p>\n<p><strong>Região:</strong> Velkynvelve</p>\n<p><strong>Afinidade:</strong> sombra</p>"
+      },
+      "weight": 0.5,
+      "price": {
+        "value": 5
+      }
+    }
+  },
+  {
+    "name": "Peixe-Cego do Lago Escuro",
+    "type": "consumable",
+    "img": "modules/underdark-alchemy/assets/amphibians/peixe_cego_do_lago_escuro.webp",
+    "tier": 1,
+    "raridade": "Comum",
+    "categoria": "anfíbios",
+    "regiao": "Lago Escuro",
+    "chanceDeEncontro": "comum em margens e poços",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 1,
+        "alchemyType": "reagent",
+        "region": "Lago Escuro",
+        "affinity": "água",
+        "source": "canon-inspired"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Peixe-Cego do Lago Escuro</strong> (Comum).</p>\n<p>Peixe esbranquiçado de carne firme e olhos atrofiados.</p>\n<p><strong>Uso bruto:</strong> Pode ser comido cru ou cozido.</p>\n<p><strong>Efeito bruto:</strong> Cru: 1/2 ração. Cozido: 1 ração completa.</p>\n<p><strong>Efeito alquímico:</strong> Óleo e olhos servem para receitas aquáticas.</p>\n<p><strong>Extração:</strong> teste DC 10 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> comum em margens e poços</p>\n<p><strong>Região:</strong> Lago Escuro</p>\n<p><strong>Afinidade:</strong> água</p>"
+      },
+      "weight": 0.5,
+      "price": {
+        "value": 5
+      }
+    }
+  },
+  {
+    "name": "Sapo de Rocha Jovem",
+    "type": "consumable",
+    "img": "modules/underdark-alchemy/assets/amphibians/sapo_de_rocha_jovem.webp",
+    "tier": 1,
+    "raridade": "Comum",
+    "categoria": "anfíbios",
+    "regiao": "Fendas Úmidas",
+    "chanceDeEncontro": "incomum em poças frias",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 1,
+        "alchemyType": "reagent",
+        "region": "Fendas Úmidas",
+        "affinity": "veneno",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Sapo de Rocha Jovem</strong> (Comum).</p>\n<p>Anfíbio cinzento que se confunde com cascalho.</p>\n<p><strong>Uso bruto:</strong> Só após limpeza.</p>\n<p><strong>Efeito bruto:</strong> Cru: teste DC 10 Constitution saving throw ou poisoned até o fim do próximo turno; cozido: 1 ração.</p>\n<p><strong>Efeito alquímico:</strong> Pele e glândulas servem para adesivos e venenos leves.</p>\n<p><strong>Extração:</strong> teste DC 11 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> incomum em poças frias</p>\n<p><strong>Região:</strong> Fendas Úmidas</p>\n<p><strong>Afinidade:</strong> veneno</p>"
+      },
+      "weight": 0.5,
+      "price": {
+        "value": 5
+      }
+    }
+  },
+  {
+    "name": "Quitina de Darkmantle",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/monsters/quitina_de_darkmantle.webp",
+    "tier": 1,
+    "raridade": "Comum",
+    "categoria": "partes-de-monstros",
+    "regiao": "Túneis Profundos",
+    "chanceDeEncontro": "incomum em tetos de cavernas",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 1,
+        "alchemyType": "catalyst",
+        "region": "Túneis Profundos",
+        "affinity": "sombra",
+        "source": "canon"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Quitina de Darkmantle</strong> (Comum).</p>\n<p>Carapaça fosca que parece engolir luz.</p>\n<p><strong>Uso bruto:</strong> Não comestível.</p>\n<p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p>\n<p><strong>Efeito alquímico:</strong> Moída, reforça receitas de abafamento e escuridão.</p>\n<p><strong>Extração:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> incomum em tetos de cavernas</p>\n<p><strong>Região:</strong> Túneis Profundos</p>\n<p><strong>Afinidade:</strong> sombra</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 5
+      }
+    }
+  },
+  {
+    "name": "Pó de Obsidiana Ritual",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/arcane/po_de_obsidiana_ritual.webp",
+    "tier": 1,
+    "raridade": "Comum",
+    "categoria": "componentes-arcanos",
+    "regiao": "Gracklstugh",
+    "chanceDeEncontro": "comum em forjas e mercados",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 1,
+        "alchemyType": "catalyst",
+        "region": "Gracklstugh",
+        "affinity": "fogo/sombra",
+        "source": "canon-inspired"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Pó de Obsidiana Ritual</strong> (Comum).</p>\n<p>Pó negro vítreo usado em círculos rituais.</p>\n<p><strong>Uso bruto:</strong> Não comestível.</p>\n<p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p>\n<p><strong>Efeito alquímico:</strong> Catalisa fogo, shadow e rituais drow simples.</p>\n<p><strong>Extração:</strong> teste DC 11 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> comum em forjas e mercados</p>\n<p><strong>Região:</strong> Gracklstugh</p>\n<p><strong>Afinidade:</strong> fogo/sombra</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 5
+      }
+    }
+  },
+  {
+    "name": "Musgo de Água Fria",
+    "type": "consumable",
+    "img": "modules/underdark-alchemy/assets/fungi/musgo_de_agua_fria.webp",
+    "tier": 1,
+    "raridade": "Comum",
+    "categoria": "fungos",
+    "regiao": "Lago Escuro",
+    "chanceDeEncontro": "comum em rochas molhadas",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 1,
+        "alchemyType": "stabilizer",
+        "region": "Lago Escuro",
+        "affinity": "água/frio",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Musgo de Água Fria</strong> (Comum).</p>\n<p>Musgo espesso que armazena água gelada.</p>\n<p><strong>Uso bruto:</strong> Pode ser mastigado.</p>\n<p><strong>Efeito bruto:</strong> Conta como 1/2 ração e reduz sede por 1 hour.</p>\n<p><strong>Efeito alquímico:</strong> Base de compressas e poções aquáticas.</p>\n<p><strong>Extração:</strong> teste DC 10 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> comum em rochas molhadas</p>\n<p><strong>Região:</strong> Lago Escuro</p>\n<p><strong>Afinidade:</strong> água/frio</p>"
+      },
+      "weight": 0.5,
+      "price": {
+        "value": 5
+      }
+    }
+  },
+  {
+    "name": "Ferrão de Aranha Menor",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/monsters/ferrao_de_aranha_menor.webp",
+    "tier": 1,
+    "raridade": "Comum",
+    "categoria": "partes-de-monstros",
+    "regiao": "Velkynvelve",
+    "chanceDeEncontro": "comum após limpeza de ninhos",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 1,
+        "alchemyType": "reagent",
+        "region": "Velkynvelve",
+        "affinity": "veneno",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Ferrão de Aranha Menor</strong> (Comum).</p>\n<p>Ferrão fino ainda úmido de toxina.</p>\n<p><strong>Uso bruto:</strong> Não comestível.</p>\n<p><strong>Efeito bruto:</strong> Aplicado sem cuidado exige teste DC 10 Dexterity check para evitar 1 poison damage.</p>\n<p><strong>Efeito alquímico:</strong> Ingrediente simples para venenos fracos.</p>\n<p><strong>Extração:</strong> teste DC 11 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> comum após limpeza de ninhos</p>\n<p><strong>Região:</strong> Velkynvelve</p>\n<p><strong>Afinidade:</strong> veneno</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 5
+      }
+    }
+  },
+  {
+    "name": "Fungo Véu Cinza",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/fungi/fungo_veu_cinza.webp",
+    "tier": 2,
+    "raridade": "Incomum",
+    "categoria": "fungos",
+    "regiao": "Bosque Nunca Claro",
+    "chanceDeEncontro": "incomum sob troncos mortos",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 2,
+        "alchemyType": "stabilizer",
+        "region": "Bosque Nunca Claro",
+        "affinity": "terra",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Fungo Véu Cinza</strong> (Incomum).</p>\n<p>Fungo frio ao toque que filtra umidade do ar.</p>\n<p><strong>Uso bruto:</strong> Precisa secar.</p>\n<p><strong>Efeito bruto:</strong> Sem preparo, desvantagem no próximo Charisma check, mas vantagem no próximo Wisdom (Survival) em cavernas.</p>\n<p><strong>Efeito alquímico:</strong> Espessante de tônicos de resistência.</p>\n<p><strong>Extração:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> incomum sob troncos mortos</p>\n<p><strong>Região:</strong> Bosque Nunca Claro</p>\n<p><strong>Afinidade:</strong> terra</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 10
+      }
+    }
+  },
+  {
+    "name": "Esporo de Violet Fungus",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/fungi/esporo_de_violet_fungus.webp",
+    "tier": 2,
+    "raridade": "Incomum",
+    "categoria": "fungos",
+    "regiao": "Bosque Nunca Claro",
+    "chanceDeEncontro": "incomum em colônias agressivas",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 2,
+        "alchemyType": "reagent",
+        "region": "Bosque Nunca Claro",
+        "affinity": "veneno/necrose",
+        "source": "canon"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Esporo de Violet Fungus</strong> (Incomum).</p>\n<p>Esporos colhidos com extremo cuidado.</p>\n<p><strong>Uso bruto:</strong> Perigoso sem preparo.</p>\n<p><strong>Efeito bruto:</strong> Cru: teste DC 12 Constitution saving throw ou 1 poison damage e poisoned até o fim do próximo turno.</p>\n<p><strong>Efeito alquímico:</strong> Serve para venenos e bombas de esporo.</p>\n<p><strong>Extração:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> incomum em colônias agressivas</p>\n<p><strong>Região:</strong> Bosque Nunca Claro</p>\n<p><strong>Afinidade:</strong> veneno/necrose</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 10
+      }
+    }
+  },
+  {
+    "name": "Escaravelho Abissal",
+    "type": "consumable",
+    "img": "modules/underdark-alchemy/assets/insects/escaravelho_abissal.webp",
+    "tier": 2,
+    "raridade": "Incomum",
+    "categoria": "insetos",
+    "regiao": "Túneis Profundos",
+    "chanceDeEncontro": "raro em trilhas quentes",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 2,
+        "alchemyType": "catalyst",
+        "region": "Túneis Profundos",
+        "affinity": "fogo/terra",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Escaravelho Abissal</strong> (Incomum).</p>\n<p>Inseto de casco vermelho-escuro que acumula calor.</p>\n<p><strong>Uso bruto:</strong> Pode ser torrado.</p>\n<p><strong>Efeito bruto:</strong> Torrado: 1/2 ração e vantagem no próximo teste contra forced march.</p>\n<p><strong>Efeito alquímico:</strong> Casco serve para elixires de resistência.</p>\n<p><strong>Extração:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> raro em trilhas quentes</p>\n<p><strong>Região:</strong> Túneis Profundos</p>\n<p><strong>Afinidade:</strong> fogo/terra</p>"
+      },
+      "weight": 0.5,
+      "price": {
+        "value": 10
+      }
+    }
+  },
+  {
+    "name": "Larva Psíquica",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/insects/larva_psiquica.webp",
+    "tier": 2,
+    "raridade": "Incomum",
+    "categoria": "insetos",
+    "regiao": "Túneis Profundos",
+    "chanceDeEncontro": "raro em cadáveres tocados por aberrações",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 2,
+        "alchemyType": "essence",
+        "region": "Túneis Profundos",
+        "affinity": "psíquico",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Larva Psíquica</strong> (Incomum).</p>\n<p>Larva translúcida com pulsações lilases.</p>\n<p><strong>Uso bruto:</strong> Nunca deve ser comida crua.</p>\n<p><strong>Efeito bruto:</strong> Cru: teste DC 12 Wisdom saving throw ou 1 psychic damage.</p>\n<p><strong>Efeito alquímico:</strong> Destilada, entra em poções de foco mental.</p>\n<p><strong>Extração:</strong> teste DC 13 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> raro em cadáveres tocados por aberrações</p>\n<p><strong>Região:</strong> Túneis Profundos</p>\n<p><strong>Afinidade:</strong> psíquico</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 10
+      }
+    }
+  },
+  {
+    "name": "Salamandra das Cavernas",
+    "type": "consumable",
+    "img": "modules/underdark-alchemy/assets/amphibians/salamandra_das_cavernas.webp",
+    "tier": 2,
+    "raridade": "Incomum",
+    "categoria": "anfíbios",
+    "regiao": "Cavernas Vulcânicas",
+    "chanceDeEncontro": "incomum em áreas quentes",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 2,
+        "alchemyType": "reagent",
+        "region": "Cavernas Vulcânicas",
+        "affinity": "fogo",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Salamandra das Cavernas</strong> (Incomum).</p>\n<p>Salamandra escura de ventre âmbar.</p>\n<p><strong>Uso bruto:</strong> Pode ser comida cozida.</p>\n<p><strong>Efeito bruto:</strong> Cru: 1/2 ração. Cozida: 1 ração.</p>\n<p><strong>Efeito alquímico:</strong> Óleo de pele vira base para tônicos térmicos.</p>\n<p><strong>Extração:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> incomum em áreas quentes</p>\n<p><strong>Região:</strong> Cavernas Vulcânicas</p>\n<p><strong>Afinidade:</strong> fogo</p>"
+      },
+      "weight": 0.5,
+      "price": {
+        "value": 10
+      }
+    }
+  },
+  {
+    "name": "Rã Ecoante",
+    "type": "consumable",
+    "img": "modules/underdark-alchemy/assets/amphibians/ra_ecoante.webp",
+    "tier": 2,
+    "raridade": "Incomum",
+    "categoria": "anfíbios",
+    "regiao": "Lago Escuro",
+    "chanceDeEncontro": "incomum em margens com teto alto",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 2,
+        "alchemyType": "essence",
+        "region": "Lago Escuro",
+        "affinity": "som",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Rã Ecoante</strong> (Incomum).</p>\n<p>Rã de garganta enorme cujo coaxar retorna atrasado.</p>\n<p><strong>Uso bruto:</strong> Pode ser assada.</p>\n<p><strong>Efeito bruto:</strong> Assada: 1 ração e vantagem no próximo Wisdom (Perception) baseado em hearing.</p>\n<p><strong>Efeito alquímico:</strong> Glândulas são úteis em ecos localizadores.</p>\n<p><strong>Extração:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> incomum em margens com teto alto</p>\n<p><strong>Região:</strong> Lago Escuro</p>\n<p><strong>Afinidade:</strong> som</p>"
+      },
+      "weight": 0.5,
+      "price": {
+        "value": 10
+      }
+    }
+  },
+  {
+    "name": "Muco de Carrion Crawler",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/monsters/muco_de_carrion_crawler.webp",
+    "tier": 2,
+    "raridade": "Incomum",
+    "categoria": "partes-de-monstros",
+    "regiao": "Rotas de Seda",
+    "chanceDeEncontro": "raro onde há carniça",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 2,
+        "alchemyType": "reagent",
+        "region": "Rotas de Seda",
+        "affinity": "veneno/paralisia",
+        "source": "canon"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Muco de Carrion Crawler</strong> (Incomum).</p>\n<p>Muco espesso colhido de um predador subterrâneo.</p>\n<p><strong>Uso bruto:</strong> Não comestível.</p>\n<p><strong>Efeito bruto:</strong> Contato descuidado: teste DC 12 Constitution saving throw ou speed reduzida em 3 m por 1 minute.</p>\n<p><strong>Efeito alquímico:</strong> Ingrediente clássico para paralisantes e colas orgânicas.</p>\n<p><strong>Extração:</strong> teste DC 13 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> raro onde há carniça</p>\n<p><strong>Região:</strong> Rotas de Seda</p>\n<p><strong>Afinidade:</strong> veneno/paralisia</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 10
+      }
+    }
+  },
+  {
+    "name": "Cinza de Ritual Drow",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/arcane/cinza_de_ritual_drow.webp",
+    "tier": 2,
+    "raridade": "Incomum",
+    "categoria": "componentes-arcanos",
+    "regiao": "Velkynvelve",
+    "chanceDeEncontro": "incomum em altares e fogareiros",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 2,
+        "alchemyType": "catalyst",
+        "region": "Velkynvelve",
+        "affinity": "sombra/veneno",
+        "source": "canon-inspired"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Cinza de Ritual Drow</strong> (Incomum).</p>\n<p>Cinza fina misturada com resinas e sangue seco.</p>\n<p><strong>Uso bruto:</strong> Não comestível.</p>\n<p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p>\n<p><strong>Efeito alquímico:</strong> Reforça receitas ligadas a darkness, web e venenos.</p>\n<p><strong>Extração:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> incomum em altares e fogareiros</p>\n<p><strong>Região:</strong> Velkynvelve</p>\n<p><strong>Afinidade:</strong> sombra/veneno</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 10
+      }
+    }
+  },
+  {
+    "name": "Besouro de Sal",
+    "type": "consumable",
+    "img": "modules/underdark-alchemy/assets/insects/besouro_de_sal.webp",
+    "tier": 2,
+    "raridade": "Incomum",
+    "categoria": "insetos",
+    "regiao": "Gracklstugh",
+    "chanceDeEncontro": "incomum perto de depósitos salinos",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 2,
+        "alchemyType": "stabilizer",
+        "region": "Gracklstugh",
+        "affinity": "terra",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Besouro de Sal</strong> (Incomum).</p>\n<p>Inseto esbranquiçado de casco cristalino.</p>\n<p><strong>Uso bruto:</strong> Pode ser tostado.</p>\n<p><strong>Efeito bruto:</strong> Tostado: 1/2 ração e ajuda a conservar carne por 1 day.</p>\n<p><strong>Efeito alquímico:</strong> Moído, atua como estabilizador mineral.</p>\n<p><strong>Extração:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> incomum perto de depósitos salinos</p>\n<p><strong>Região:</strong> Gracklstugh</p>\n<p><strong>Afinidade:</strong> terra</p>"
+      },
+      "weight": 0.5,
+      "price": {
+        "value": 10
+      }
+    }
+  },
+  {
+    "name": "Pele de Cave Lizard",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/monsters/pele_de_cave_lizard.webp",
+    "tier": 2,
+    "raridade": "Incomum",
+    "categoria": "partes-de-monstros",
+    "regiao": "Fendas Úmidas",
+    "chanceDeEncontro": "incomum perto de ninhos de répteis",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 2,
+        "alchemyType": "reagent",
+        "region": "Fendas Úmidas",
+        "affinity": "agilidade",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Pele de Cave Lizard</strong> (Incomum).</p>\n<p>Tira seca de pele flexível e aderente.</p>\n<p><strong>Uso bruto:</strong> Não comestível.</p>\n<p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p>\n<p><strong>Efeito alquímico:</strong> Boa para óleos de climb e misturas de mobilidade.</p>\n<p><strong>Extração:</strong> teste DC 12 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> incomum perto de ninhos de répteis</p>\n<p><strong>Região:</strong> Fendas Úmidas</p>\n<p><strong>Afinidade:</strong> agilidade</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 10
+      }
+    }
+  },
+  {
+    "name": "Fungo Dente-de-Pedra",
+    "type": "consumable",
+    "img": "modules/underdark-alchemy/assets/fungi/fungo_dente_de_pedra.webp",
+    "tier": 3,
+    "raridade": "Raro",
+    "categoria": "fungos",
+    "regiao": "Gracklstugh",
+    "chanceDeEncontro": "raro em pedreiras e minas",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 3,
+        "alchemyType": "catalyst",
+        "region": "Gracklstugh",
+        "affinity": "terra",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Fungo Dente-de-Pedra</strong> (Raro).</p>\n<p>Cogumelo duro com textura quase mineral.</p>\n<p><strong>Uso bruto:</strong> Pode ser mascado com risco.</p>\n<p><strong>Efeito bruto:</strong> Cru: 1 bludgeoning damage nos dentes sensíveis, mas conta como 1/2 ração.</p>\n<p><strong>Efeito alquímico:</strong> Fortalece poções de skin hardening.</p>\n<p><strong>Extração:</strong> teste DC 13 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> raro em pedreiras e minas</p>\n<p><strong>Região:</strong> Gracklstugh</p>\n<p><strong>Afinidade:</strong> terra</p>"
+      },
+      "weight": 0.5,
+      "price": {
+        "value": 15
+      }
+    }
+  },
+  {
+    "name": "Micélio de Zuggtmoy",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/fungi/micelio_de_zuggtmoy.webp",
+    "tier": 3,
+    "raridade": "Raro",
+    "categoria": "fungos",
+    "regiao": "Bosque Nunca Claro",
+    "chanceDeEncontro": "raro em áreas corrompidas",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 3,
+        "alchemyType": "reagent",
+        "region": "Bosque Nunca Claro",
+        "affinity": "fúngico/psíquico",
+        "source": "canon"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Micélio de Zuggtmoy</strong> (Raro).</p>\n<p>Filamentos pálidos que parecem respirar.</p>\n<p><strong>Uso bruto:</strong> Proibido sem preparo.</p>\n<p><strong>Efeito bruto:</strong> Cru: teste DC 13 Wisdom saving throw ou 1 psychic damage e frightened até o fim do próximo turno.</p>\n<p><strong>Efeito alquímico:</strong> Usado em receitas corruptivas e sonhos fúngicos.</p>\n<p><strong>Extração:</strong> teste DC 14 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> raro em áreas corrompidas</p>\n<p><strong>Região:</strong> Bosque Nunca Claro</p>\n<p><strong>Afinidade:</strong> fúngico/psíquico</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 15
+      }
+    }
+  },
+  {
+    "name": "Mosca de Putrefação",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/insects/mosca_de_putrefacao.webp",
+    "tier": 3,
+    "raridade": "Raro",
+    "categoria": "insetos",
+    "regiao": "Bosque Nunca Claro",
+    "chanceDeEncontro": "raro perto de matéria em decomposição",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 3,
+        "alchemyType": "reagent",
+        "region": "Bosque Nunca Claro",
+        "affinity": "veneno",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Mosca de Putrefação</strong> (Raro).</p>\n<p>Mosca verde-escura com abdômen inchado.</p>\n<p><strong>Uso bruto:</strong> Não recomendável.</p>\n<p><strong>Efeito bruto:</strong> Cru: teste DC 13 Constitution saving throw ou poisoned por 10 minutes.</p>\n<p><strong>Efeito alquímico:</strong> Ótima para venenos e filtros de decomposição.</p>\n<p><strong>Extração:</strong> teste DC 13 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> raro perto de matéria em decomposição</p>\n<p><strong>Região:</strong> Bosque Nunca Claro</p>\n<p><strong>Afinidade:</strong> veneno</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 15
+      }
+    }
+  },
+  {
+    "name": "Cigarra do Vazio",
+    "type": "consumable",
+    "img": "modules/underdark-alchemy/assets/insects/cigarra_do_vazio.webp",
+    "tier": 3,
+    "raridade": "Raro",
+    "categoria": "insetos",
+    "regiao": "Túneis Profundos",
+    "chanceDeEncontro": "raro em fendas profundas",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 3,
+        "alchemyType": "essence",
+        "region": "Túneis Profundos",
+        "affinity": "silêncio/sombra",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Cigarra do Vazio</strong> (Raro).</p>\n<p>Inseto negro cujo canto some no meio da nota.</p>\n<p><strong>Uso bruto:</strong> Pode ser tostada.</p>\n<p><strong>Efeito bruto:</strong> Tostada: 1/2 ração e vantagem no próximo Dexterity (Stealth) em stone corridors.</p>\n<p><strong>Efeito alquímico:</strong> Asas viram pó de silêncio.</p>\n<p><strong>Extração:</strong> teste DC 14 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> raro em fendas profundas</p>\n<p><strong>Região:</strong> Túneis Profundos</p>\n<p><strong>Afinidade:</strong> silêncio/sombra</p>"
+      },
+      "weight": 0.5,
+      "price": {
+        "value": 15
+      }
+    }
+  },
+  {
+    "name": "Axolote Sombrio",
+    "type": "consumable",
+    "img": "modules/underdark-alchemy/assets/amphibians/axolote_sombrio.webp",
+    "tier": 3,
+    "raridade": "Raro",
+    "categoria": "anfíbios",
+    "regiao": "Fendas Úmidas",
+    "chanceDeEncontro": "raro em lagos frios",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 3,
+        "alchemyType": "essence",
+        "region": "Fendas Úmidas",
+        "affinity": "água/frio",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Axolote Sombrio</strong> (Raro).</p>\n<p>Anfíbio negro de brânquias prateadas.</p>\n<p><strong>Uso bruto:</strong> Pode ser cozido.</p>\n<p><strong>Efeito bruto:</strong> Cozido: 1 ração e 1d4 temporary hit points contra cold por 1 hour.</p>\n<p><strong>Efeito alquímico:</strong> Brânquias entram em poções de adaptação à água.</p>\n<p><strong>Extração:</strong> teste DC 13 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> raro em lagos frios</p>\n<p><strong>Região:</strong> Fendas Úmidas</p>\n<p><strong>Afinidade:</strong> água/frio</p>"
+      },
+      "weight": 0.5,
+      "price": {
+        "value": 15
+      }
+    }
+  },
+  {
+    "name": "Girino Aboleth",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/amphibians/girino_aboleth.webp",
+    "tier": 3,
+    "raridade": "Raro",
+    "categoria": "anfíbios",
+    "regiao": "Lago Escuro",
+    "chanceDeEncontro": "muito raro em águas antigas",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 3,
+        "alchemyType": "reagent",
+        "region": "Lago Escuro",
+        "affinity": "psíquico/água",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Girino Aboleth</strong> (Raro).</p>\n<p>Forma larval gelatinosa com membranas iridescentes.</p>\n<p><strong>Uso bruto:</strong> Nunca cru.</p>\n<p><strong>Efeito bruto:</strong> Cru: teste DC 14 Wisdom saving throw ou 1 psychic damage e visions breves.</p>\n<p><strong>Efeito alquímico:</strong> Destilado, serve para receitas psíquicas.</p>\n<p><strong>Extração:</strong> teste DC 14 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> muito raro em águas antigas</p>\n<p><strong>Região:</strong> Lago Escuro</p>\n<p><strong>Afinidade:</strong> psíquico/água</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 15
+      }
+    }
+  },
+  {
+    "name": "Glândula de Veneno de Aranha Gigante",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/monsters/glandula_de_veneno_de_aranha_gigante.webp",
+    "tier": 3,
+    "raridade": "Raro",
+    "categoria": "partes-de-monstros",
+    "regiao": "Velkynvelve",
+    "chanceDeEncontro": "raro após caça bem-sucedida",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 3,
+        "alchemyType": "reagent",
+        "region": "Velkynvelve",
+        "affinity": "veneno",
+        "source": "canon"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Glândula de Veneno de Aranha Gigante</strong> (Raro).</p>\n<p>Bolsa orgânica de líquido escuro e viscoso.</p>\n<p><strong>Uso bruto:</strong> Não comestível.</p>\n<p><strong>Efeito bruto:</strong> Rompida sem cuidado exige teste DC 13 Dexterity check ou aplica veneno ao portador.</p>\n<p><strong>Efeito alquímico:</strong> Ingrediente valioso para toxinas drow e antídotos.</p>\n<p><strong>Extração:</strong> teste DC 14 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> raro após caça bem-sucedida</p>\n<p><strong>Região:</strong> Velkynvelve</p>\n<p><strong>Afinidade:</strong> veneno</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 15
+      }
+    }
+  },
+  {
+    "name": "Pedra de Eco Arcano",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/arcane/pedra_de_eco_arcano.webp",
+    "tier": 3,
+    "raridade": "Raro",
+    "categoria": "componentes-arcanos",
+    "regiao": "Gracklstugh",
+    "chanceDeEncontro": "raro em mercados e ruínas",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 3,
+        "alchemyType": "catalyst",
+        "region": "Gracklstugh",
+        "affinity": "som/arcano",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Pedra de Eco Arcano</strong> (Raro).</p>\n<p>Seixo translúcido que repete vibrações mágicas.</p>\n<p><strong>Uso bruto:</strong> Não comestível.</p>\n<p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p>\n<p><strong>Efeito alquímico:</strong> Armazena uma única ressonância; excelente em receitas de som e memória.</p>\n<p><strong>Extração:</strong> teste DC 13 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> raro em mercados e ruínas</p>\n<p><strong>Região:</strong> Gracklstugh</p>\n<p><strong>Afinidade:</strong> som/arcano</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 15
+      }
+    }
+  },
+  {
+    "name": "Olho de Darkmantle Maduro",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/monsters/olho_de_darkmantle_maduro.webp",
+    "tier": 3,
+    "raridade": "Raro",
+    "categoria": "partes-de-monstros",
+    "regiao": "Túneis Profundos",
+    "chanceDeEncontro": "raro em cavernas de caça",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 3,
+        "alchemyType": "essence",
+        "region": "Túneis Profundos",
+        "affinity": "sombra/sentidos",
+        "source": "canon-inspired"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Olho de Darkmantle Maduro</strong> (Raro).</p>\n<p>Olho opaco que ainda reage a sombra próxima.</p>\n<p><strong>Uso bruto:</strong> Não comestível.</p>\n<p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p>\n<p><strong>Efeito alquímico:</strong> Serve para extratos de percepção em darkness.</p>\n<p><strong>Extração:</strong> teste DC 14 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> raro em cavernas de caça</p>\n<p><strong>Região:</strong> Túneis Profundos</p>\n<p><strong>Afinidade:</strong> sombra/sentidos</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 15
+      }
+    }
+  },
+  {
+    "name": "Sal Abissal Purificado",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/arcane/sal_abissal_purificado.webp",
+    "tier": 3,
+    "raridade": "Raro",
+    "categoria": "componentes-arcanos",
+    "regiao": "Gracklstugh",
+    "chanceDeEncontro": "raro em depósitos profundos",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 3,
+        "alchemyType": "stabilizer",
+        "region": "Gracklstugh",
+        "affinity": "abissal",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Sal Abissal Purificado</strong> (Raro).</p>\n<p>Cristais escuros com cheiro fraco de ozônio.</p>\n<p><strong>Uso bruto:</strong> Não comestível.</p>\n<p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p>\n<p><strong>Efeito alquímico:</strong> Estabiliza misturas voláteis ligadas ao Lower Planes.</p>\n<p><strong>Extração:</strong> teste DC 13 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> raro em depósitos profundos</p>\n<p><strong>Região:</strong> Gracklstugh</p>\n<p><strong>Afinidade:</strong> abissal</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 15
+      }
+    }
+  },
+  {
+    "name": "Fungo Oráculo",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/fungi/fungo_oraculo.webp",
+    "tier": 4,
+    "raridade": "Muito Raro",
+    "categoria": "fungos",
+    "regiao": "Túneis Profundos",
+    "chanceDeEncontro": "muito raro em bolsões de gás",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 4,
+        "alchemyType": "essence",
+        "region": "Túneis Profundos",
+        "affinity": "adivinhação/psíquico",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Fungo Oráculo</strong> (Muito Raro).</p>\n<p>Fungo de chapéu leitoso com veios dourados.</p>\n<p><strong>Uso bruto:</strong> Apenas em doses mínimas.</p>\n<p><strong>Efeito bruto:</strong> Cru: teste DC 14 Wisdom saving throw ou incapacitado até o fim do próximo turno por visões.</p>\n<p><strong>Efeito alquímico:</strong> Ingrediente de poções de adivinhação e insight.</p>\n<p><strong>Extração:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> muito raro em bolsões de gás</p>\n<p><strong>Região:</strong> Túneis Profundos</p>\n<p><strong>Afinidade:</strong> adivinhação/psíquico</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 20
+      }
+    }
+  },
+  {
+    "name": "Fungo Sangra-Seiva",
+    "type": "consumable",
+    "img": "modules/underdark-alchemy/assets/fungi/fungo_sangra_seiva.webp",
+    "tier": 4,
+    "raridade": "Muito Raro",
+    "categoria": "fungos",
+    "regiao": "Cavernas Vulcânicas",
+    "chanceDeEncontro": "muito raro perto de fumarolas",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 4,
+        "alchemyType": "reagent",
+        "region": "Cavernas Vulcânicas",
+        "affinity": "fogo",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Fungo Sangra-Seiva</strong> (Muito Raro).</p>\n<p>Ao cortar o caule escorre uma seiva vermelha quente.</p>\n<p><strong>Uso bruto:</strong> Pode ser reduzido e cozido.</p>\n<p><strong>Efeito bruto:</strong> Redução: 1/2 ração e resistência a fire damage até o início do próximo turno.</p>\n<p><strong>Efeito alquímico:</strong> Base para bálsamos térmicos potentes.</p>\n<p><strong>Extração:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> muito raro perto de fumarolas</p>\n<p><strong>Região:</strong> Cavernas Vulcânicas</p>\n<p><strong>Afinidade:</strong> fogo</p>"
+      },
+      "weight": 0.5,
+      "price": {
+        "value": 20
+      }
+    }
+  },
+  {
+    "name": "Besouro Myconid",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/insects/besouro_myconid.webp",
+    "tier": 4,
+    "raridade": "Muito Raro",
+    "categoria": "insetos",
+    "regiao": "Bosque Nunca Claro",
+    "chanceDeEncontro": "muito raro em colônias alteradas",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 4,
+        "alchemyType": "reagent",
+        "region": "Bosque Nunca Claro",
+        "affinity": "fúngico/veneno",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Besouro Myconid</strong> (Muito Raro).</p>\n<p>Besouro coberto por filamentos fúngicos conscientes.</p>\n<p><strong>Uso bruto:</strong> Perigoso.</p>\n<p><strong>Efeito bruto:</strong> Cru: teste DC 14 Constitution saving throw ou poisoned e hallucinatory spores leves.</p>\n<p><strong>Efeito alquímico:</strong> Mistura-se bem com micélios para receitas vivas.</p>\n<p><strong>Extração:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> muito raro em colônias alteradas</p>\n<p><strong>Região:</strong> Bosque Nunca Claro</p>\n<p><strong>Afinidade:</strong> fúngico/veneno</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 20
+      }
+    }
+  },
+  {
+    "name": "Aranha-Salto Alfa",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/insects/aranha_salto_alfa.webp",
+    "tier": 4,
+    "raridade": "Muito Raro",
+    "categoria": "insetos",
+    "regiao": "Rotas de Seda",
+    "chanceDeEncontro": "muito raro em ninhos verticais",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 4,
+        "alchemyType": "catalyst",
+        "region": "Rotas de Seda",
+        "affinity": "web/agilidade",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Aranha-Salto Alfa</strong> (Muito Raro).</p>\n<p>Predador pequeno e rápido, criado para caça em salto.</p>\n<p><strong>Uso bruto:</strong> Não comestível.</p>\n<p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p>\n<p><strong>Efeito alquímico:</strong> Fios internos viram base para misturas adesivas e mobilidade.</p>\n<p><strong>Extração:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> muito raro em ninhos verticais</p>\n<p><strong>Região:</strong> Rotas de Seda</p>\n<p><strong>Afinidade:</strong> web/agilidade</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 20
+      }
+    }
+  },
+  {
+    "name": "Sapo Lanternado",
+    "type": "consumable",
+    "img": "modules/underdark-alchemy/assets/amphibians/sapo_lanternado.webp",
+    "tier": 4,
+    "raridade": "Muito Raro",
+    "categoria": "anfíbios",
+    "regiao": "Lago Escuro",
+    "chanceDeEncontro": "muito raro em lagos sem corrente",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 4,
+        "alchemyType": "essence",
+        "region": "Lago Escuro",
+        "affinity": "luz/água",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Sapo Lanternado</strong> (Muito Raro).</p>\n<p>Anfíbio com bolsa luminosa no peito.</p>\n<p><strong>Uso bruto:</strong> Pode ser cozido.</p>\n<p><strong>Efeito bruto:</strong> Cozido: 1 ração e darkvision 9 m por 1 hour se o alvo não tiver.</p>\n<p><strong>Efeito alquímico:</strong> Órgãos lumínicos servem para elixires de visão.</p>\n<p><strong>Extração:</strong> teste DC 14 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> muito raro em lagos sem corrente</p>\n<p><strong>Região:</strong> Lago Escuro</p>\n<p><strong>Afinidade:</strong> luz/água</p>"
+      },
+      "weight": 0.5,
+      "price": {
+        "value": 20
+      }
+    }
+  },
+  {
+    "name": "Rã de Limo",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/amphibians/ra_de_limo.webp",
+    "tier": 4,
+    "raridade": "Muito Raro",
+    "categoria": "anfíbios",
+    "regiao": "Fendas Úmidas",
+    "chanceDeEncontro": "muito raro em cavernas ácidas",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 4,
+        "alchemyType": "reagent",
+        "region": "Fendas Úmidas",
+        "affinity": "ácido",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Rã de Limo</strong> (Muito Raro).</p>\n<p>Rã verde translúcida cuja pele pinga ácido diluído.</p>\n<p><strong>Uso bruto:</strong> Não recomendada para consumo.</p>\n<p><strong>Efeito bruto:</strong> Cru: teste DC 15 Constitution saving throw ou 2 acid damage.</p>\n<p><strong>Efeito alquímico:</strong> Limo estabilizado entra em receitas de corrosão controlada.</p>\n<p><strong>Extração:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> muito raro em cavernas ácidas</p>\n<p><strong>Região:</strong> Fendas Úmidas</p>\n<p><strong>Afinidade:</strong> ácido</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 20
+      }
+    }
+  },
+  {
+    "name": "Olho de Hook Horror",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/monsters/olho_de_hook_horror.webp",
+    "tier": 4,
+    "raridade": "Muito Raro",
+    "categoria": "partes-de-monstros",
+    "regiao": "Túneis Profundos",
+    "chanceDeEncontro": "muito raro após abatimento limpo",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 4,
+        "alchemyType": "essence",
+        "region": "Túneis Profundos",
+        "affinity": "sentidos",
+        "source": "canon-inspired"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Olho de Hook Horror</strong> (Muito Raro).</p>\n<p>Olho opaco adaptado à percepção subterrânea.</p>\n<p><strong>Uso bruto:</strong> Não comestível.</p>\n<p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p>\n<p><strong>Efeito alquímico:</strong> Seco e moído, melhora poções de sense vibration e caça no escuro.</p>\n<p><strong>Extração:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> muito raro após abatimento limpo</p>\n<p><strong>Região:</strong> Túneis Profundos</p>\n<p><strong>Afinidade:</strong> sentidos</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 20
+      }
+    }
+  },
+  {
+    "name": "Fragmento de Portal Menor",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/arcane/fragmento_de_portal_menor.webp",
+    "tier": 4,
+    "raridade": "Muito Raro",
+    "categoria": "componentes-arcanos",
+    "regiao": "Gracklstugh",
+    "chanceDeEncontro": "muito raro em ruínas e falhas mágicas",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 4,
+        "alchemyType": "catalyst",
+        "region": "Gracklstugh",
+        "affinity": "planar",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Fragmento de Portal Menor</strong> (Muito Raro).</p>\n<p>Lasca de cristal que mostra outro lugar em seu interior.</p>\n<p><strong>Uso bruto:</strong> Não comestível.</p>\n<p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p>\n<p><strong>Efeito alquímico:</strong> Utilizado em receitas de blink e proteção planar curta.</p>\n<p><strong>Extração:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> muito raro em ruínas e falhas mágicas</p>\n<p><strong>Região:</strong> Gracklstugh</p>\n<p><strong>Afinidade:</strong> planar</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 20
+      }
+    }
+  },
+  {
+    "name": "Ovo de Cave Fisher",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/monsters/ovo_de_cave_fisher.webp",
+    "tier": 4,
+    "raridade": "Muito Raro",
+    "categoria": "partes-de-monstros",
+    "regiao": "Rotas de Seda",
+    "chanceDeEncontro": "muito raro em cavidades altas",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 4,
+        "alchemyType": "reagent",
+        "region": "Rotas de Seda",
+        "affinity": "web/caça",
+        "source": "canon"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Ovo de Cave Fisher</strong> (Muito Raro).</p>\n<p>Ovo translúcido preenchido com fios densos.</p>\n<p><strong>Uso bruto:</strong> Não comestível.</p>\n<p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p>\n<p><strong>Efeito alquímico:</strong> Excelente em receitas de tether, armadilha e alça adesiva.</p>\n<p><strong>Extração:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> muito raro em cavidades altas</p>\n<p><strong>Região:</strong> Rotas de Seda</p>\n<p><strong>Afinidade:</strong> web/caça</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 20
+      }
+    }
+  },
+  {
+    "name": "Areia do Plano Etéreo",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/arcane/areia_do_plano_etereo.webp",
+    "tier": 4,
+    "raridade": "Muito Raro",
+    "categoria": "componentes-arcanos",
+    "regiao": "Túneis Profundos",
+    "chanceDeEncontro": "muito raro em fissuras planares",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 4,
+        "alchemyType": "catalyst",
+        "region": "Túneis Profundos",
+        "affinity": "planar/sombra",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Areia do Plano Etéreo</strong> (Muito Raro).</p>\n<p>Grãos frios que escapam de recipientes mal vedados.</p>\n<p><strong>Uso bruto:</strong> Não comestível.</p>\n<p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p>\n<p><strong>Efeito alquímico:</strong> Dá leveza e instabilidade a poções e pós.</p>\n<p><strong>Extração:</strong> teste DC 15 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> muito raro em fissuras planares</p>\n<p><strong>Região:</strong> Túneis Profundos</p>\n<p><strong>Afinidade:</strong> planar/sombra</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 20
+      }
+    }
+  },
+  {
+    "name": "Esporo da Rainha de Fungos",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/fungi/esporo_da_rainha_de_fungos.webp",
+    "tier": 5,
+    "raridade": "Aberrante",
+    "categoria": "fungos",
+    "regiao": "Bosque Nunca Claro",
+    "chanceDeEncontro": "quase único em focos corrompidos",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 5,
+        "alchemyType": "reagent",
+        "region": "Bosque Nunca Claro",
+        "affinity": "fúngico/abissal",
+        "source": "canon-inspired"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Esporo da Rainha de Fungos</strong> (Aberrante).</p>\n<p>Esporo pesado que pulsa como um coração em miniatura.</p>\n<p><strong>Uso bruto:</strong> Jamais cru.</p>\n<p><strong>Efeito bruto:</strong> Contato exige teste DC 16 Constitution saving throw ou poisoned por 1 minute.</p>\n<p><strong>Efeito alquímico:</strong> Ingrediente aberrante para receitas de corrupção e crescimento fúngico.</p>\n<p><strong>Extração:</strong> teste DC 16 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> quase único em focos corrompidos</p>\n<p><strong>Região:</strong> Bosque Nunca Claro</p>\n<p><strong>Afinidade:</strong> fúngico/abissal</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 25
+      }
+    }
+  },
+  {
+    "name": "Micélio de Sonho Cinza",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/fungi/micelio_de_sonho_cinza.webp",
+    "tier": 5,
+    "raridade": "Aberrante",
+    "categoria": "fungos",
+    "regiao": "Túneis Profundos",
+    "chanceDeEncontro": "extremamente raro em cavernas sem som",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 5,
+        "alchemyType": "essence",
+        "region": "Túneis Profundos",
+        "affinity": "psíquico/sonho",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Micélio de Sonho Cinza</strong> (Aberrante).</p>\n<p>Filamentos cinzentos que reagem a pensamentos.</p>\n<p><strong>Uso bruto:</strong> Apenas em laboratório.</p>\n<p><strong>Efeito bruto:</strong> Sem uso bruto direto seguro.</p>\n<p><strong>Efeito alquímico:</strong> Permite efeitos ligados a sonho, visão e memória roubada.</p>\n<p><strong>Extração:</strong> teste DC 16 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> extremamente raro em cavernas sem som</p>\n<p><strong>Região:</strong> Túneis Profundos</p>\n<p><strong>Afinidade:</strong> psíquico/sonho</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 25
+      }
+    }
+  },
+  {
+    "name": "Vespa da Fenda Abissal",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/insects/vespa_da_fenda_abissal.webp",
+    "tier": 5,
+    "raridade": "Aberrante",
+    "categoria": "insetos",
+    "regiao": "Túneis Profundos",
+    "chanceDeEncontro": "extremamente raro em abismos quentes",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 5,
+        "alchemyType": "reagent",
+        "region": "Túneis Profundos",
+        "affinity": "veneno/abissal",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Vespa da Fenda Abissal</strong> (Aberrante).</p>\n<p>Inseto negro-azulado de ferrão quase metálico.</p>\n<p><strong>Uso bruto:</strong> Não comestível.</p>\n<p><strong>Efeito bruto:</strong> Ferrão cru pode ser aplicado a uma arma improvisada para 1 hit antes de perder potência.</p>\n<p><strong>Efeito alquímico:</strong> Ingrediente de toxinas violentas e injetores rápidos.</p>\n<p><strong>Extração:</strong> teste DC 16 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> extremamente raro em abismos quentes</p>\n<p><strong>Região:</strong> Túneis Profundos</p>\n<p><strong>Afinidade:</strong> veneno/abissal</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 25
+      }
+    }
+  },
+  {
+    "name": "Coração de Colmeia Psíquica",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/insects/coracao_de_colmeia_psiquica.webp",
+    "tier": 5,
+    "raridade": "Aberrante",
+    "categoria": "insetos",
+    "regiao": "Túneis Profundos",
+    "chanceDeEncontro": "extremamente raro em ninhos aberrantes",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 5,
+        "alchemyType": "essence",
+        "region": "Túneis Profundos",
+        "affinity": "psíquico",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Coração de Colmeia Psíquica</strong> (Aberrante).</p>\n<p>Massa pulsante retirada do centro de uma colônia mental.</p>\n<p><strong>Uso bruto:</strong> Não comestível.</p>\n<p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p>\n<p><strong>Efeito alquímico:</strong> Catalisa receitas de telepathy, mental shield e fear.</p>\n<p><strong>Extração:</strong> teste DC 16 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> extremamente raro em ninhos aberrantes</p>\n<p><strong>Região:</strong> Túneis Profundos</p>\n<p><strong>Afinidade:</strong> psíquico</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 25
+      }
+    }
+  },
+  {
+    "name": "Salamandra Cinzenta Anciã",
+    "type": "consumable",
+    "img": "modules/underdark-alchemy/assets/amphibians/salamandra_cinzenta_ancia.webp",
+    "tier": 5,
+    "raridade": "Aberrante",
+    "categoria": "anfíbios",
+    "regiao": "Cavernas Vulcânicas",
+    "chanceDeEncontro": "extremamente raro em lagos termais",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 5,
+        "alchemyType": "essence",
+        "region": "Cavernas Vulcânicas",
+        "affinity": "fogo",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Salamandra Cinzenta Anciã</strong> (Aberrante).</p>\n<p>Anfíbio grande marcado por cinza vulcânica.</p>\n<p><strong>Uso bruto:</strong> Pode ser preparada só por especialista.</p>\n<p><strong>Efeito bruto:</strong> Cozida corretamente: 2 rações e resistência a fire damage por 1 hour.</p>\n<p><strong>Efeito alquímico:</strong> Seu sangue entra em elixires superiores de calor.</p>\n<p><strong>Extração:</strong> teste DC 16 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> extremamente raro em lagos termais</p>\n<p><strong>Região:</strong> Cavernas Vulcânicas</p>\n<p><strong>Afinidade:</strong> fogo</p>"
+      },
+      "weight": 0.5,
+      "price": {
+        "value": 25
+      }
+    }
+  },
+  {
+    "name": "Rã Profunda de Pedra-Viva",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/amphibians/ra_profunda_de_pedra_viva.webp",
+    "tier": 5,
+    "raridade": "Aberrante",
+    "categoria": "anfíbios",
+    "regiao": "Gracklstugh",
+    "chanceDeEncontro": "extremamente raro em rios minerais",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 5,
+        "alchemyType": "catalyst",
+        "region": "Gracklstugh",
+        "affinity": "terra/transmutação",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Rã Profunda de Pedra-Viva</strong> (Aberrante).</p>\n<p>Rã pequena com ossos brilhando através da pele.</p>\n<p><strong>Uso bruto:</strong> Não recomendada.</p>\n<p><strong>Efeito bruto:</strong> Cru endurece a língua e impõe desvantagem no próximo Charisma check.</p>\n<p><strong>Efeito alquímico:</strong> Órgãos mineralizados servem para transmutação e skin of stone.</p>\n<p><strong>Extração:</strong> teste DC 16 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> extremamente raro em rios minerais</p>\n<p><strong>Região:</strong> Gracklstugh</p>\n<p><strong>Afinidade:</strong> terra/transmutação</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 25
+      }
+    }
+  },
+  {
+    "name": "Escama de Basilisco Jovem",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/monsters/escama_de_basilisco_jovem.webp",
+    "tier": 5,
+    "raridade": "Aberrante",
+    "categoria": "partes-de-monstros",
+    "regiao": "Túneis Profundos",
+    "chanceDeEncontro": "extremamente raro em tocas de predadores",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 5,
+        "alchemyType": "catalyst",
+        "region": "Túneis Profundos",
+        "affinity": "petrificação",
+        "source": "canon"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Escama de Basilisco Jovem</strong> (Aberrante).</p>\n<p>Escama áspera impregnada de magia estagnante.</p>\n<p><strong>Uso bruto:</strong> Não comestível.</p>\n<p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p>\n<p><strong>Efeito alquímico:</strong> Ingrediente poderoso para petrificação, rigidez e antídotos contra stone gaze.</p>\n<p><strong>Extração:</strong> teste DC 16 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> extremamente raro em tocas de predadores</p>\n<p><strong>Região:</strong> Túneis Profundos</p>\n<p><strong>Afinidade:</strong> petrificação</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 25
+      }
+    }
+  },
+  {
+    "name": "Essência Psíquica Destilada",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/arcane/essencia_psiquica_destilada.webp",
+    "tier": 5,
+    "raridade": "Aberrante",
+    "categoria": "componentes-arcanos",
+    "regiao": "Lago Escuro",
+    "chanceDeEncontro": "extremamente raro; obtida por ritual",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 5,
+        "alchemyType": "catalyst",
+        "region": "Lago Escuro",
+        "affinity": "psíquico/arcano",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Essência Psíquica Destilada</strong> (Aberrante).</p>\n<p>Frasco minúsculo de vapor lilás contido por runas.</p>\n<p><strong>Uso bruto:</strong> Não comestível.</p>\n<p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p>\n<p><strong>Efeito alquímico:</strong> Componente de receitas de clarity, mental invasion e warding.</p>\n<p><strong>Extração:</strong> teste DC 16 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> extremamente raro; obtida por ritual</p>\n<p><strong>Região:</strong> Lago Escuro</p>\n<p><strong>Afinidade:</strong> psíquico/arcano</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 25
+      }
+    }
+  },
+  {
+    "name": "Cinza de Círculo Quebrado",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/arcane/cinza_de_circulo_quebrado.webp",
+    "tier": 5,
+    "raridade": "Aberrante",
+    "categoria": "componentes-arcanos",
+    "regiao": "Velkynvelve",
+    "chanceDeEncontro": "extremamente raro em locais de ritual sabotado",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 5,
+        "alchemyType": "catalyst",
+        "region": "Velkynvelve",
+        "affinity": "sombra/planar",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Cinza de Círculo Quebrado</strong> (Aberrante).</p>\n<p>Cinza pesada que apaga luz fraca ao redor.</p>\n<p><strong>Uso bruto:</strong> Não comestível.</p>\n<p><strong>Efeito bruto:</strong> Sem uso bruto direto.</p>\n<p><strong>Efeito alquímico:</strong> Ideal para receitas de fuga, null ward e ruptura mágica.</p>\n<p><strong>Extração:</strong> teste DC 16 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> extremamente raro em locais de ritual sabotado</p>\n<p><strong>Região:</strong> Velkynvelve</p>\n<p><strong>Afinidade:</strong> sombra/planar</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 25
+      }
+    }
+  },
+  {
+    "name": "Coração de Deep Rot Grub",
+    "type": "loot",
+    "img": "modules/underdark-alchemy/assets/monsters/coracao_de_deep_rot_grub.webp",
+    "tier": 5,
+    "raridade": "Aberrante",
+    "categoria": "partes-de-monstros",
+    "regiao": "Bosque Nunca Claro",
+    "chanceDeEncontro": "extremamente raro em colônias contaminadas",
+    "flags": {
+      "shattered-codex": {
+        "cauldronIngredient": true,
+        "tier": 5,
+        "alchemyType": "reagent",
+        "region": "Bosque Nunca Claro",
+        "affinity": "necrose",
+        "source": "homebrew"
+      }
+    },
+    "system": {
+      "description": {
+        "value": "<p><strong>Coração de Deep Rot Grub</strong> (Aberrante).</p>\n<p>Nódulo pulsante retirado de um verme apodrecedor profundo.</p>\n<p><strong>Uso bruto:</strong> Nunca comestível.</p>\n<p><strong>Efeito bruto:</strong> Contato exige teste DC 16 Constitution saving throw ou 2 necrotic damage.</p>\n<p><strong>Efeito alquímico:</strong> Ingrediente abjeto para necrose e decomposição rápida.</p>\n<p><strong>Extração:</strong> teste DC 16 Intelligence (Arcana), Wisdom (Nature) ou ferramenta adequada.</p>\n<p><strong>Chance de encontro:</strong> extremamente raro em colônias contaminadas</p>\n<p><strong>Região:</strong> Bosque Nunca Claro</p>\n<p><strong>Afinidade:</strong> necrose</p>"
+      },
+      "weight": 0.2,
+      "price": {
+        "value": 25
+      }
+    }
+  }
+]
